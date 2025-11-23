@@ -1,38 +1,48 @@
 [
   {
-    "text": "There is a room on the world's newest cruise that has a slide, a private balcony, a movie theater, a personal butler, and countless bedrooms. I have",
+    "text": "There is a room on the world's newest cruise that has a slide, a private balcony, a movie theater, a personal butler, and countless bedrooms.",
     "start": 0.08,
-    "duration": 11.519
+    "duration": 10.78
   },
   {
-    "text": "no business going on a luxurious cruise to stay in this room. However, my wife Haley has a dream of becoming an author,",
-    "start": 9.76,
-    "duration": 7.92
+    "text": "I have no business going on a luxurious cruise to stay in this room.",
+    "start": 10.859702702702702,
+    "duration": 3.055
   },
   {
-    "text": "and she just got copies of her first book ever. She won't let me read it because I haven't finished a book in over a year, and I've started a lot of",
-    "start": 15.679,
-    "duration": 9.36
+    "text": "However, my wife Haley has a dream of becoming an author, and she just got copies of her first book ever.",
+    "start": 13.914675675675676,
+    "duration": 4.659
   },
   {
-    "text": "books. So, I have a plan to steal one of them, replace it with a fake copy, read the entire book on the cruise, all so I",
-    "start": 22.56,
-    "duration": 8.719
+    "text": "She won't let me read it because I haven't finished a book in over a year, and I've started a lot of books.",
+    "start": 18.574117647058824,
+    "duration": 4.712
   },
   {
-    "text": "can surprise her with my review when I get home. So, yes, going on this adventure of staying in every single room on the most expensive cruise ship",
-    "start": 29.519,
-    "duration": 10.161
+    "text": "So, I have a plan to steal one of them, replace it with a fake copy, read the entire book on the cruise, all so I can surprise her with my review when I",
+    "start": 23.285999999999998,
+    "duration": 9.994
   },
   {
-    "text": "would be ridiculous, but it might just make Haley think I'm the best husband ever. I packed my bags and flew to the pickup zone for the cruise, where I",
-    "start": 37.12,
-    "duration": 11.599
+    "text": "get home.",
+    "start": 31.279,
+    "duration": 1.115
   },
   {
-    "text": "boarded and made my way to the cheapest room on this entire boat.",
-    "start": 46.8,
-    "duration": 8.34
+    "text": "So, yes, going on this adventure of staying in every single room on the most expensive cruise ship would be ridiculous, but it might just",
+    "start": 32.394129032258064,
+    "duration": 9.366
+  },
+  {
+    "text": "make Haley think I'm the best husband ever.",
+    "start": 39.68,
+    "duration": 2.761
+  },
+  {
+    "text": "I packed my bags and flew to the pickup zone for the cruise, where I boarded and made my way to the cheapest room on this entire boat.",
+    "start": 42.44108108108108,
+    "duration": 12.699
   },
   {
     "text": "[Music] Whoa.",
@@ -40,49 +50,109 @@
     "duration": 8.099
   },
   {
-    "text": "[Music] So, this is the economy room on this cruise ship, which is crazy because look at this place. This is a fancy room.",
+    "text": "[Music] So, this is the economy room on this cruise ship, which is crazy because look at this place.",
     "start": 59.31,
-    "duration": 11.09
+    "duration": 9.026
   },
   {
-    "text": "This is a nice room. I'm going to jump on that bed.",
+    "text": "This is a fancy room.",
+    "start": 68.336,
+    "duration": 2.064
+  },
+  {
+    "text": "This is a nice room.",
     "start": 69.04,
-    "duration": 5.2
+    "duration": 1.946
   },
   {
-    "text": "It's a good bed. I like it. This room also has a full bathroom. And look at this. You can control all of the lights from this touchcreen. Most people go on",
+    "text": "I'm going to jump on that bed.",
+    "start": 70.98594594594596,
+    "duration": 3.254
+  },
+  {
+    "text": "It's a good bed.",
     "start": 72.64,
-    "duration": 8.24
+    "duration": 1.499
   },
   {
-    "text": "a cruise not for the room that you sleep in, but for what you can do outside of the room. Each one that I booked comes with different perks and activities on",
-    "start": 79.2,
-    "duration": 8.08
+    "text": "I like it.",
+    "start": 74.13942857142857,
+    "duration": 0.937
   },
   {
-    "text": "the ship. And obviously, this one has the least because it's the most affordable one. This boat has officially departed. We are somewhere in the ocean",
-    "start": 85.84,
-    "duration": 7.76
+    "text": "This room also has a full bathroom.",
+    "start": 75.07657142857143,
+    "duration": 1.385
   },
   {
-    "text": "at this point. So, before I start reading Haley's book, I'm going to go look for something fun to do around my room. It's got to be something fun. At",
-    "start": 92.24,
-    "duration": 10.199
+    "text": "And look at this.",
+    "start": 76.46152777777777,
+    "duration": -0.11
   },
   {
-    "text": "least one thing.",
-    "start": 98.799,
-    "duration": 3.64
+    "text": "You can control all of the lights from this touchcreen.",
+    "start": 76.35157894736842,
+    "duration": 2.989
   },
   {
-    "text": "[Music] Hey, excuse me. Uh, do you know anything fun to do around here?",
+    "text": "Most people go on a cruise not for the room that you sleep in, but for what you can do outside of the room.",
+    "start": 79.34060526315788,
+    "duration": 4.017
+  },
+  {
+    "text": "Each one that I booked comes with different perks and activities on the ship.",
+    "start": 83.35783783783783,
+    "duration": 3.202
+  },
+  {
+    "text": "And obviously, this one has the least because it's the most affordable one.",
+    "start": 86.56,
+    "duration": 3.514
+  },
+  {
+    "text": "This boat has officially departed.",
+    "start": 90.07384615384615,
+    "duration": 1.267
+  },
+  {
+    "text": "We are somewhere in the ocean at this point.",
+    "start": 91.34105263157895,
+    "duration": 2.159
+  },
+  {
+    "text": "So, before I start reading Haley's book, I'm going to go look for something fun to do around my room.",
+    "start": 93.4995625,
+    "duration": 4.153
+  },
+  {
+    "text": "It's got to be something fun.",
+    "start": 97.65208333333332,
+    "duration": 4.478
+  },
+  {
+    "text": "At least one thing.",
+    "start": 102.13016666666665,
+    "duration": 0.309
+  },
+  {
+    "text": "[Music] Hey, excuse me.",
     "start": 102.54,
-    "duration": 14.1
+    "duration": 7.226
   },
   {
-    "text": "I have no idea. Uh, like a party or >> only have rooms.",
+    "text": "Uh, do you know anything fun to do around here?",
+    "start": 109.76615384615384,
+    "duration": 6.874
+  },
+  {
+    "text": "I have no idea.",
     "start": 112.72,
-    "duration": 5.92
+    "duration": 2.259
+  },
+  {
+    "text": "Uh, like a party or >> only have rooms.",
+    "start": 114.97882352941177,
+    "duration": 3.661
   },
   {
     "text": ">> Only rooms on here.",
@@ -95,9 +165,14 @@
     "duration": 3.2
   },
   {
-    "text": ">> Oh, okay. I was walking in circles.",
+    "text": ">> Oh, okay.",
     "start": 119.68,
-    "duration": 3.68
+    "duration": 1.194
+  },
+  {
+    "text": "I was walking in circles.",
+    "start": 120.87351351351352,
+    "duration": 2.486
   },
   {
     "text": ">> Yes, we only have rooms here.",
@@ -115,9 +190,19 @@
     "duration": 11.451
   },
   {
-    "text": "[Music] This buffet is complimentary for literally every guest on this entire ship. I'm talking burgers. They have grilled meats, fruit, desserts, salad.",
+    "text": "[Music] This buffet is complimentary for literally every guest on this entire ship.",
     "start": 133.17,
-    "duration": 17.39
+    "duration": 11.456
+  },
+  {
+    "text": "I'm talking burgers.",
+    "start": 144.62588235294118,
+    "duration": 2.824
+  },
+  {
+    "text": "They have grilled meats, fruit, desserts, salad.",
+    "start": 147.44941176470587,
+    "duration": 3.111
   },
   {
     "text": "Oh, I carried as many plates of food over to my table as I possibly could.",
@@ -135,34 +220,69 @@
     "duration": 2.801
   },
   {
-    "text": "Don't judge me. I cannot believe all of this was free. Like, what is this bread?",
+    "text": "Don't judge me.",
     "start": 156.319,
-    "duration": 4.801
+    "duration": 1.169
   },
   {
-    "text": "But I have a book to read. So, I'm going to eat this as fast as I possibly can and get back to the room.",
+    "text": "I cannot believe all of this was free.",
+    "start": 157.48781578947367,
+    "duration": 1.427
+  },
+  {
+    "text": "Like, what is this bread?",
+    "start": 158.9148717948718,
+    "duration": 2.205
+  },
+  {
+    "text": "But I have a book to read.",
     "start": 159.28,
-    "duration": 7.56
+    "duration": 2.453
   },
   {
-    "text": "I saw this guy dancing as I was leaving the buffet. Now, I am back in the room, and it is officially time to start reading my wife's book for Ryan, who",
+    "text": "So, I'm going to eat this as fast as I possibly can and get back to the room.",
+    "start": 161.73266666666666,
+    "duration": 5.107
+  },
+  {
+    "text": "I saw this guy dancing as I was leaving the buffet.",
     "start": 167.76,
-    "duration": 10.0
+    "duration": 2.94
   },
   {
-    "text": "made my life a romance book before I discovered them. Come on. This just hit me like a bag of bricks. She just worked so hard on this.",
-    "start": 175.76,
-    "duration": 10.24
+    "text": "Now, I am back in the room, and it is officially time to start reading my wife's book for Ryan, who made my life a romance book before I",
+    "start": 170.70005263157896,
+    "duration": 9.38
   },
   {
-    "text": "Yes, I'm on a really cool cruise, and my rooms are only going to get cooler every single day with more perks and activities to offer. Yes, the final room",
+    "text": "discovered them.",
+    "start": 177.76,
+    "duration": 1.868
+  },
+  {
+    "text": "Come on.",
+    "start": 179.6281081081081,
+    "duration": 0.934
+  },
+  {
+    "text": "This just hit me like a bag of bricks.",
+    "start": 180.56216216216217,
+    "duration": 1.93
+  },
+  {
+    "text": "She just worked so hard on this.",
+    "start": 182.4923076923077,
+    "duration": 3.508
+  },
+  {
+    "text": "Yes, I'm on a really cool cruise, and my rooms are only going to get cooler every single day with more perks and activities to offer.",
     "start": 184.0,
-    "duration": 8.56
+    "duration": 7.001
   },
   {
-    "text": "looks like it's going to be very distracting in the best way possible, but I cannot wait to finish this book.",
-    "start": 191.36,
-    "duration": 9.46
+    "text": "Yes, the final room looks like it's going to be very distracting in the best way possible, but I cannot wait to finish this book.",
+    "start": 191.00102564102565,
+    "duration": 9.819
   },
   {
     "text": "I'm going to start now.",
@@ -175,19 +295,39 @@
     "duration": 22.38
   },
   {
-    "text": ">> It is time to go to our next room on the cruise ship. And on my way to it, I stumbled across something weird. What room is that?",
+    "text": ">> It is time to go to our next room on the cruise ship.",
     "start": 221.519,
-    "duration": 9.561
+    "duration": 3.205
   },
   {
-    "text": "Why are there giant paw prints? Is there a dog in there?",
+    "text": "And on my way to it, I stumbled across something weird.",
+    "start": 224.72435294117645,
+    "duration": 5.667
+  },
+  {
+    "text": "What room is that?",
+    "start": 230.391,
+    "duration": 0.689
+  },
+  {
+    "text": "Why are there giant paw prints?",
     "start": 231.12,
-    "duration": 6.8
+    "duration": 3.879
   },
   {
-    "text": "Eh, whatever. All I care about right now is my next room, which is up one floor, down the hall, and right behind this door.",
+    "text": "Is there a dog in there?",
+    "start": 234.99897435897435,
+    "duration": 2.921
+  },
+  {
+    "text": "Eh, whatever.",
     "start": 236.0,
-    "duration": 12.2
+    "duration": 1.44
+  },
+  {
+    "text": "All I care about right now is my next room, which is up one floor, down the hall, and right behind this door.",
+    "start": 237.43966666666665,
+    "duration": 10.76
   },
   {
     "text": ">> Wa!",
@@ -195,24 +335,44 @@
     "duration": 3.0
   },
   {
-    "text": "[Music] Guys, this is quite the upgrade. This room has a lot of the same features as the last one, like the bed and the",
+    "text": "[Music] Guys, this is quite the upgrade.",
     "start": 248.53,
-    "duration": 11.07
+    "duration": 7.292
   },
   {
-    "text": "bathroom are the same, but check this out. There's an entire couch that has bedding underneath it, and you can transform it into another bed. You could",
-    "start": 258.0,
-    "duration": 7.759
+    "text": "This room has a lot of the same features as the last one, like the bed and the bathroom are the same, but check this out.",
+    "start": 255.82222222222222,
+    "duration": 4.124
   },
   {
-    "text": "sleep like three people in here comfortably. But the coolest part is this balcony. My last room didn't even have a window. Oh my gosh, I found the",
-    "start": 264.56,
-    "duration": 8.72
+    "text": "There's an entire couch that has bedding underneath it, and you can transform it into another bed.",
+    "start": 259.9466666666667,
+    "duration": 5.111
   },
   {
-    "text": "party. I did not know there was a hangout area in the middle of the ship.",
-    "start": 271.759,
-    "duration": 4.88
+    "text": "You could sleep like three people in here comfortably.",
+    "start": 265.0576923076923,
+    "duration": 1.881
+  },
+  {
+    "text": "But the coolest part is this balcony.",
+    "start": 266.9384285714286,
+    "duration": 1.967
+  },
+  {
+    "text": "My last room didn't even have a window.",
+    "start": 268.9055945945946,
+    "duration": 1.838
+  },
+  {
+    "text": "Oh my gosh, I found the party.",
+    "start": 270.74316216216215,
+    "duration": 1.616
+  },
+  {
+    "text": "I did not know there was a hangout area in the middle of the ship.",
+    "start": 272.3591875,
+    "duration": 4.28
   },
   {
     "text": "I'm going to go down there and explore.",
@@ -220,19 +380,39 @@
     "duration": 3.44
   },
   {
-    "text": "Hopefully find some lunch and maybe even find a party to be a part of. I maybe I could throw the party. I just need to find enough people to throw a party. I",
+    "text": "Hopefully find some lunch and maybe even find a party to be a part of.",
     "start": 276.639,
-    "duration": 8.961
+    "duration": 4.996
   },
   {
-    "text": "really want to be involved with a party on this cruise ship. I feel like that's the whole point of cruises, for parties.",
-    "start": 283.919,
-    "duration": 7.321
+    "text": "I maybe I could throw the party.",
+    "start": 281.63502631578945,
+    "duration": 1.133
   },
   {
-    "text": "This is Lily. She's holding on deck 12, >> right?",
+    "text": "I just need to find enough people to throw a party.",
+    "start": 282.76827777777777,
+    "duration": 2.752
+  },
+  {
+    "text": "I really want to be involved with a party on this cruise ship.",
+    "start": 285.519972972973,
+    "duration": 3.048
+  },
+  {
+    "text": "I feel like that's the whole point of cruises, for parties.",
+    "start": 288.5684210526316,
+    "duration": 2.672
+  },
+  {
+    "text": "This is Lily.",
     "start": 293.84,
-    "duration": 4.16
+    "duration": 1.122
+  },
+  {
+    "text": "She's holding on deck 12, >> right?",
+    "start": 294.96210526315787,
+    "duration": 3.038
   },
   {
     "text": ">> Yeah.",
@@ -250,34 +430,94 @@
     "duration": 3.32
   },
   {
-    "text": ">> Guys, it is absolutely bonkers down here. There's an arcade. There's a candy store. There's a merrygoround. And the word on the street is the restaurant",
+    "text": ">> Guys, it is absolutely bonkers down here.",
     "start": 303.04,
-    "duration": 8.879
+    "duration": 2.436
   },
   {
-    "text": "behind me has a bunch of complimentary food for little kids.",
-    "start": 310.16,
-    "duration": 7.28
+    "text": "There's an arcade.",
+    "start": 305.4757894736842,
+    "duration": 1.857
   },
   {
-    "text": "[Music] Got myself quite the plate. Really appreciate that they have dividers on it so the food doesn't touch. I really am a",
+    "text": "There's a candy store.",
+    "start": 307.33263157894737,
+    "duration": 0.294
+  },
+  {
+    "text": "There's a merrygoround.",
+    "start": 307.62666666666667,
+    "duration": 1.942
+  },
+  {
+    "text": "And the word on the street is the restaurant behind me has a bunch of complimentary food for little kids.",
+    "start": 309.56888888888886,
+    "duration": 7.871
+  },
+  {
+    "text": "[Music] Got myself quite the plate.",
     "start": 314.46,
-    "duration": 10.82
+    "duration": 6.318
   },
   {
-    "text": "grown man. Ever heard of a grilled cheese hot dog? Now you have. All 100% complimentary. Can you believe it? I can't believe it. This is basically how",
-    "start": 323.919,
-    "duration": 8.641
+    "text": "Really appreciate that they have dividers on it so the food doesn't touch.",
+    "start": 320.7781818181818,
+    "duration": 3.248
   },
   {
-    "text": "I eat at home. I feel very comforted right now. There's so much more to do in this area. I cannot believe my room is above this. Let's have some food so we",
-    "start": 330.96,
-    "duration": 10.12
+    "text": "I really am a grown man.",
+    "start": 324.02666666666664,
+    "duration": 1.056
   },
   {
-    "text": "can have some fun.",
-    "start": 337.6,
-    "duration": 3.48
+    "text": "Ever heard of a grilled cheese hot dog?",
+    "start": 325.08263636363637,
+    "duration": 2.031
+  },
+  {
+    "text": "Now you have.",
+    "start": 327.1133333333333,
+    "duration": 1.589
+  },
+  {
+    "text": "All 100% complimentary.",
+    "start": 328.7022222222222,
+    "duration": 0.375
+  },
+  {
+    "text": "Can you believe it?",
+    "start": 329.0770588235294,
+    "duration": 1.789
+  },
+  {
+    "text": "I can't believe it.",
+    "start": 330.86585294117646,
+    "duration": 0.103
+  },
+  {
+    "text": "This is basically how I eat at home.",
+    "start": 330.9684210526316,
+    "duration": 1.24
+  },
+  {
+    "text": "I feel very comforted right now.",
+    "start": 332.20799999999997,
+    "duration": 1.193
+  },
+  {
+    "text": "There's so much more to do in this area.",
+    "start": 333.4010256410256,
+    "duration": 1.63
+  },
+  {
+    "text": "I cannot believe my room is above this.",
+    "start": 335.03135135135136,
+    "duration": 2.366
+  },
+  {
+    "text": "Let's have some food so we can have some fun.",
+    "start": 337.3978378378378,
+    "duration": 3.682
   },
   {
     "text": "[Music] [Music] I wonder if they have joy ride.",
@@ -290,29 +530,69 @@
     "duration": 7.119
   },
   {
-    "text": "No joy ride in the candy store? Ah, ice cream will do.",
+    "text": "No joy ride in the candy store?",
     "start": 359.84,
-    "duration": 6.12
+    "duration": 4.993
   },
   {
-    "text": ">> Thank you. It goes without saying, but visiting the courtyard underneath my balcony was a success. Cheers.",
+    "text": "Ah, ice cream will do.",
+    "start": 364.83263157894737,
+    "duration": 1.127
+  },
+  {
+    "text": ">> Thank you.",
     "start": 367.84,
-    "duration": 8.12
+    "duration": 1.118
   },
   {
-    "text": "M. Ice cream unlocked.",
+    "text": "It goes without saying, but visiting the courtyard underneath my balcony was a success.",
+    "start": 368.95799999999997,
+    "duration": 5.872
+  },
+  {
+    "text": "Cheers.",
+    "start": 374.8303448275862,
+    "duration": 1.13
+  },
+  {
+    "text": "M.",
     "start": 376.08,
-    "duration": 4.04
+    "duration": 0.385
   },
   {
-    "text": "That's so good. My ice cream is melting rapidly. I'm sweaty. I need to go take a shower.",
+    "text": "Ice cream unlocked.",
+    "start": 376.4647619047619,
+    "duration": 3.655
+  },
+  {
+    "text": "That's so good.",
     "start": 380.639,
-    "duration": 7.081
+    "duration": 1.611
   },
   {
-    "text": "I came back to the shower, did some reading. I'm really enjoying this book.",
+    "text": "My ice cream is melting rapidly.",
+    "start": 382.2499210526316,
+    "duration": 1.144
+  },
+  {
+    "text": "I'm sweaty.",
+    "start": 383.3936842105263,
+    "duration": 1.586
+  },
+  {
+    "text": "I need to go take a shower.",
+    "start": 384.98,
+    "duration": 2.74
+  },
+  {
+    "text": "I came back to the shower, did some reading.",
     "start": 389.039,
-    "duration": 4.72
+    "duration": 2.321
+  },
+  {
+    "text": "I'm really enjoying this book.",
+    "start": 391.35978947368426,
+    "duration": 2.399
   },
   {
     "text": "And I even drew some cute pictures for Haley to see when I give it back to her when I get home, when I surprise her with the book that I stole, and headed",
@@ -325,24 +605,49 @@
     "duration": 8.37
   },
   {
-    "text": "[Music] This restaurant is so fancy. You can tell because there's way too much silverware on the table. My waiter, Aaron, and his assistant waiter, Dena,",
+    "text": "[Music] This restaurant is so fancy.",
     "start": 403.11,
-    "duration": 18.41
+    "duration": 11.85
   },
   {
-    "text": "are awesome. I told them, \"Surprise me.",
-    "start": 419.599,
-    "duration": 3.281
+    "text": "You can tell because there's way too much silverware on the table.",
+    "start": 414.96,
+    "duration": 3.486
   },
   {
-    "text": "Bring out whatever you want.\" First things first, looks like we've got some cheese bread and calamari. Yummy, yummy, yummy.",
+    "text": "My waiter, Aaron, and his assistant waiter, Dena, are awesome.",
+    "start": 418.4463529411765,
+    "duration": 2.189
+  },
+  {
+    "text": "I told them, \"Surprise me.",
+    "start": 420.63510526315787,
+    "duration": 2.245
+  },
+  {
+    "text": "Bring out whatever you want.\" First things first, looks like we've got some cheese bread and calamari.",
     "start": 421.52,
-    "duration": 8.799
+    "duration": 5.547
   },
   {
-    "text": "Sorry. I am very excited. I asked my waiter to get a video of me.",
+    "text": "Yummy, yummy, yummy.",
+    "start": 427.06666666666666,
+    "duration": 3.252
+  },
+  {
+    "text": "Sorry.",
     "start": 428.56,
-    "duration": 5.12
+    "duration": 0.904
+  },
+  {
+    "text": "I am very excited.",
+    "start": 429.4635294117647,
+    "duration": 2.711
+  },
+  {
+    "text": "I asked my waiter to get a video of me.",
+    "start": 432.1741176470588,
+    "duration": 1.506
   },
   {
     "text": "Fancy.",
@@ -355,24 +660,54 @@
     "duration": 6.24
   },
   {
-    "text": "[Music] Oh, how I long to be photographed. Next up, beef tenderloin. This looks expensive. You can tell it's a fancy restaurant because all of the silverware",
+    "text": "[Music] Oh, how I long to be photographed.",
     "start": 442.32,
-    "duration": 12.319
+    "duration": 7.077
   },
   {
-    "text": "is a different size, and I don't know what the difference is. Do I use the short knife or the big fork for this? I don't know.",
-    "start": 453.12,
-    "duration": 9.28
+    "text": "Next up, beef tenderloin.",
+    "start": 449.397,
+    "duration": 0.896
   },
   {
-    "text": "And finally, creme brulee. Creme brulee is one of those desserts where you're like, \"How do I get myself into this situation where I'm eating creme brulee?",
+    "text": "This looks expensive.",
+    "start": 450.29333333333335,
+    "duration": 0.54
+  },
+  {
+    "text": "You can tell it's a fancy restaurant because all of the silverware is a different size, and I don't know what the difference is.",
+    "start": 450.8335714285714,
+    "duration": 6.908
+  },
+  {
+    "text": "Do I use the short knife or the big fork for this?",
+    "start": 457.7413714285714,
+    "duration": 4.49
+  },
+  {
+    "text": "I don't know.",
+    "start": 462.2315789473684,
+    "duration": 0.168
+  },
+  {
+    "text": "And finally, creme brulee.",
     "start": 462.639,
-    "duration": 8.84
+    "duration": 2.025
   },
   {
-    "text": "There's no way this is free. I got to ask my waiter if this is complimentary.\" Aaron, this is a very fancy restaurant.",
+    "text": "Creme brulee is one of those desserts where you're like, \"How do I get myself into this situation where I'm eating creme brulee?",
+    "start": 464.66426315789477,
+    "duration": 6.815
+  },
+  {
+    "text": "There's no way this is free.",
     "start": 472.16,
-    "duration": 7.36
+    "duration": 2.799
+  },
+  {
+    "text": "I got to ask my waiter if this is complimentary.\" Aaron, this is a very fancy restaurant.",
+    "start": 474.95922222222225,
+    "duration": 4.561
   },
   {
     "text": "Is this complimentary?",
@@ -380,9 +715,19 @@
     "duration": 3.12
   },
   {
-    "text": ">> It's complimentary. Yes. Complimentary for a guest.",
+    "text": ">> It's complimentary.",
     "start": 479.52,
-    "duration": 3.84
+    "duration": 1.489
+  },
+  {
+    "text": "Yes.",
+    "start": 481.0092307692307,
+    "duration": 0.271
+  },
+  {
+    "text": "Complimentary for a guest.",
+    "start": 481.28,
+    "duration": 2.08
   },
   {
     "text": ">> Are you serious?",
@@ -390,64 +735,174 @@
     "duration": 3.68
   },
   {
-    "text": ">> Oh my god. Let's go. It's official. I'm stuffed to the brim. It took me the entire dinner to look out the window and",
+    "text": ">> Oh my god.",
     "start": 483.36,
-    "duration": 7.36
+    "duration": 1.307
   },
   {
-    "text": "realize that there's a track circling this entire ship. You can just run out there. Going for a run right now, considering the nature of what's going",
-    "start": 488.72,
-    "duration": 10.24
+    "text": "Let's go.",
+    "start": 484.6666666666667,
+    "duration": 0.905
   },
   {
-    "text": "on in my tummy. It's a bad idea. It's a bad idea. I'm going to do it.",
-    "start": 495.44,
-    "duration": 10.41
+    "text": "It's official.",
+    "start": 485.5712820512821,
+    "duration": 1.407
   },
   {
-    "text": "[Music] First time running on a boat. Look at this.",
+    "text": "I'm stuffed to the brim.",
+    "start": 486.97846153846154,
+    "duration": 0.556
+  },
+  {
+    "text": "It took me the entire dinner to look out the window and realize that there's a track circling this entire ship.",
+    "start": 487.5341176470588,
+    "duration": 4.582
+  },
+  {
+    "text": "You can just run out there.",
+    "start": 492.1162972972973,
+    "duration": 0.788
+  },
+  {
+    "text": "Going for a run right now, considering the nature of what's going on in my tummy.",
+    "start": 492.90418750000003,
+    "duration": 5.053
+  },
+  {
+    "text": "It's a bad idea.",
+    "start": 497.9575675675676,
+    "duration": 2.685
+  },
+  {
+    "text": "It's a bad idea.",
+    "start": 500.642972972973,
+    "duration": 0.532
+  },
+  {
+    "text": "I'm going to do it.",
+    "start": 501.1746428571428,
+    "duration": 4.675
+  },
+  {
+    "text": "[Music] First time running on a boat.",
     "start": 501.65,
-    "duration": 14.15
+    "duration": 13.053
   },
   {
-    "text": "I just met Lori. Beautiful sunset. We love cruises.",
+    "text": "Look at this.",
+    "start": 514.7033333333334,
+    "duration": 1.097
+  },
+  {
+    "text": "I just met Lori.",
     "start": 516.399,
-    "duration": 7.681
+    "duration": 2.487
   },
   {
-    "text": ">> Lorie took this photo of me. Pretty cool. Thanks, Lorie. Today might have been the best day ever. I made three new friends, Lily, Aaron, and Lorie. It's",
+    "text": "Beautiful sunset.",
+    "start": 518.8858571428572,
+    "duration": 2.642
+  },
+  {
+    "text": "We love cruises.",
+    "start": 521.5281428571428,
+    "duration": 2.552
+  },
+  {
+    "text": ">> Lorie took this photo of me.",
     "start": 521.839,
-    "duration": 11.68
+    "duration": 4.089
   },
   {
-    "text": "very likely that none of them know each other, which makes me the nucleus of our little community. If I can take this nucleus of myself and build up enough of",
-    "start": 531.92,
-    "duration": 9.919
+    "text": "Pretty cool.",
+    "start": 525.9284864864866,
+    "duration": -1.163
   },
   {
-    "text": "a community on this cruise ship, I can throw the coolest party of all time. I don't even need to be invited to a party I can throw myself. I read quite a bit",
-    "start": 539.839,
-    "duration": 8.161
+    "text": "Thanks, Lorie.",
+    "start": 524.7657142857144,
+    "duration": 1.92
   },
   {
-    "text": "of Haley's book today as well. I've been highlighting pages and quotes that I like. I cannot wait to wake up in the morning and go to our next room. I'm",
-    "start": 546.399,
-    "duration": 9.601
+    "text": "Today might have been the best day ever.",
+    "start": 526.6857142857143,
+    "duration": 3.101
   },
   {
-    "text": "unlocking the sunset corner suite. All three of those words are sick. It comes with its own set of perks and activities. I just can't wait. How do I",
-    "start": 553.68,
-    "duration": 11.96
+    "text": "I made three new friends, Lily, Aaron, and Lorie.",
+    "start": 529.7866666666667,
+    "duration": 3.217
   },
   {
-    "text": "put this? Uh, good night.",
-    "start": 560.72,
-    "duration": 4.92
+    "text": "It's very likely that none of them know each other, which makes me the nucleus of our little community.",
+    "start": 533.0035555555555,
+    "duration": 4.655
   },
   {
-    "text": "[Music] Good morning. I'm going to go to the next room now.",
+    "text": "If I can take this nucleus of myself and build up enough of a community on this cruise ship, I can throw the coolest party of all time.",
+    "start": 537.6589428571428,
+    "duration": 7.061
+  },
+  {
+    "text": "I don't even need to be invited to a party I can throw myself.",
+    "start": 544.719972972973,
+    "duration": 1.723
+  },
+  {
+    "text": "I read quite a bit of Haley's book today as well.",
+    "start": 546.4432432432432,
+    "duration": 2.787
+  },
+  {
+    "text": "I've been highlighting pages and quotes that I like.",
+    "start": 549.2305384615385,
+    "duration": 1.349
+  },
+  {
+    "text": "I cannot wait to wake up in the morning and go to our next room.",
+    "start": 550.58,
+    "duration": 5.057
+  },
+  {
+    "text": "I'm unlocking the sunset corner suite.",
+    "start": 555.6365714285714,
+    "duration": 1.793
+  },
+  {
+    "text": "All three of those words are sick.",
+    "start": 557.4291891891892,
+    "duration": 0.971
+  },
+  {
+    "text": "It comes with its own set of perks and activities.",
+    "start": 558.4,
+    "duration": 2.602
+  },
+  {
+    "text": "I just can't wait.",
+    "start": 561.0021621621621,
+    "duration": 3.211
+  },
+  {
+    "text": "How do I put this?",
+    "start": 564.2129729729729,
+    "duration": -1.648
+  },
+  {
+    "text": "Uh, good night.",
+    "start": 562.565,
+    "duration": 3.075
+  },
+  {
+    "text": "[Music] Good morning.",
     "start": 567.02,
-    "duration": 43.22
+    "duration": 8.483
+  },
+  {
+    "text": "I'm going to go to the next room now.",
+    "start": 575.5033714285715,
+    "duration": 34.737
   },
   {
     "text": "[Music] Wa!",
@@ -455,64 +910,214 @@
     "duration": 39.37
   },
   {
-    "text": "[Music] I am in complete and utter disbelief at this room. Remember, this room is called the Sunset Corner Suite. I didn't even",
+    "text": "[Music] I am in complete and utter disbelief at this room.",
     "start": 611.78,
-    "duration": 14.38
+    "duration": 9.665
   },
   {
-    "text": "know they made rooms like this on cruise ships. This can't be an efficient use of space. I'm going to jump on the bed.",
-    "start": 624.48,
-    "duration": 9.2
+    "text": "Remember, this room is called the Sunset Corner Suite.",
+    "start": 621.4454102564102,
+    "duration": 3.365
   },
   {
-    "text": "I really like this one. The bathroom looks like it belongs to Godzilla. Not really at all, I guess. It's just super big. Cilantro hair conditioner. What is",
+    "text": "I didn't even know they made rooms like this on cruise ships.",
+    "start": 624.8108108108108,
+    "duration": 2.186
+  },
+  {
+    "text": "This can't be an efficient use of space.",
+    "start": 626.996923076923,
+    "duration": 2.109
+  },
+  {
+    "text": "I'm going to jump on the bed.",
+    "start": 629.1062857142857,
+    "duration": 4.574
+  },
+  {
+    "text": "I really like this one.",
     "start": 631.6,
-    "duration": 11.2
+    "duration": 2.734
   },
   {
-    "text": "that? They want me to put veggies in my hair now? You're right. Also, this one comes with a coffee bar. You already know.",
-    "start": 641.12,
-    "duration": 11.52
+    "text": "The bathroom looks like it belongs to Godzilla.",
+    "start": 634.3337142857143,
+    "duration": 3.61
   },
   {
-    "text": "[Music] Ah, that's good. This room also has one of those couch beds, too. But there's no sheets inside in the storage. There's no",
+    "text": "Not really at all, I guess.",
+    "start": 637.9437837837837,
+    "duration": 1.06
+  },
+  {
+    "text": "It's just super big.",
+    "start": 639.0042105263158,
+    "duration": -0.2
+  },
+  {
+    "text": "Cilantro hair conditioner.",
+    "start": 638.8043243243244,
+    "duration": 3.148
+  },
+  {
+    "text": "What is that?",
+    "start": 641.9524324324325,
+    "duration": -0.275
+  },
+  {
+    "text": "They want me to put veggies in my hair now?",
+    "start": 641.6778947368421,
+    "duration": 2.342
+  },
+  {
+    "text": "You're right.",
+    "start": 644.02,
+    "duration": 1.762
+  },
+  {
+    "text": "Also, this one comes with a coffee bar.",
+    "start": 645.7822222222222,
+    "duration": 3.034
+  },
+  {
+    "text": "You already know.",
+    "start": 648.816,
+    "duration": 3.824
+  },
+  {
+    "text": "[Music] Ah, that's good.",
     "start": 650.4,
-    "duration": 10.72
+    "duration": 4.025
   },
   {
-    "text": "There's no bedding. Yeah, I'm sure we could request it, but good thing I'm sleeping here alone tonight. And best of all, a seaside corner balcony. This is",
-    "start": 659.2,
-    "duration": 9.44
+    "text": "This room also has one of those couch beds, too.",
+    "start": 654.4252631578947,
+    "duration": 3.195
   },
   {
-    "text": "unbelievable. I'm on the back of the boat. I have a balcony on the back of the boat. Look at the sheer size of this balcony.",
-    "start": 666.8,
-    "duration": 9.68
+    "text": "But there's no sheets inside in the storage.",
+    "start": 657.6205128205128,
+    "duration": 2.412
   },
   {
-    "text": "This is crazy, guys. I can't believe my eyes. This is unreal. This is a huge cruise ship. And that's my room.",
+    "text": "There's no There's no bedding.",
+    "start": 660.0328205128205,
+    "duration": 0.814
+  },
+  {
+    "text": "Yeah, I'm sure we could request it, but good thing I'm sleeping here alone tonight.",
+    "start": 660.8466666666667,
+    "duration": 4.69
+  },
+  {
+    "text": "And best of all, a seaside corner balcony.",
+    "start": 665.5364102564104,
+    "duration": 2.241
+  },
+  {
+    "text": "This is unbelievable.",
+    "start": 667.7771081081081,
+    "duration": 0.33
+  },
+  {
+    "text": "I'm on the back of the boat.",
+    "start": 668.1074285714285,
+    "duration": 1.099
+  },
+  {
+    "text": "I have a balcony on the back of the boat.",
+    "start": 669.2066666666667,
+    "duration": 2.036
+  },
+  {
+    "text": "Look at the sheer size of this balcony.",
+    "start": 671.243076923077,
+    "duration": 5.237
+  },
+  {
+    "text": "This is crazy, guys.",
     "start": 674.32,
-    "duration": 7.36
+    "duration": 2.147
   },
   {
-    "text": "Apparently, this room also comes with unlimited pizza, the water park, a steak dinner, and the aqua show. M. Yeah, today's going to be goated.",
+    "text": "I can't believe my eyes.",
+    "start": 676.4668421052633,
+    "duration": 0.542
+  },
+  {
+    "text": "This is unreal.",
+    "start": 677.0092647058824,
+    "duration": 1.588
+  },
+  {
+    "text": "This is a huge cruise ship.",
+    "start": 678.5970588235294,
+    "duration": 1.072
+  },
+  {
+    "text": "And that's my room.",
+    "start": 679.6690645161291,
+    "duration": 2.011
+  },
+  {
+    "text": "Apparently, this room also comes with unlimited pizza, the water park, a steak dinner, and the aqua show.",
     "start": 680.079,
-    "duration": 13.2
+    "duration": 8.741
   },
   {
-    "text": "[Music] This is my first time in the main area of the ship. It's freaking packed. This where everybody been hanging out. Felt",
+    "text": "M.",
+    "start": 688.8197878787879,
+    "duration": 0.34
+  },
+  {
+    "text": "Yeah, today's going to be goated.",
+    "start": 689.1598484848486,
+    "duration": 4.119
+  },
+  {
+    "text": "[Music] This is my first time in the main area of the ship.",
     "start": 690.01,
-    "duration": 10.63
+    "duration": 6.143
   },
   {
-    "text": "like a ghost town on my floors. All right. It's like a luxury mall in the ocean. There's a Starbucks, a Chanel, an entire beauty store. Also, what the heck",
-    "start": 698.64,
-    "duration": 9.92
+    "text": "It's freaking packed.",
+    "start": 696.1528378378378,
+    "duration": 2.089
   },
   {
-    "text": "is this thing? What the heck is this?",
-    "start": 706.32,
-    "duration": 4.16
+    "text": "This where everybody been hanging out.",
+    "start": 698.2420540540539,
+    "duration": 2.0
+  },
+  {
+    "text": "Felt like a ghost town on my floors.",
+    "start": 700.242054054054,
+    "duration": 1.825
+  },
+  {
+    "text": "All right.",
+    "start": 702.0673235294117,
+    "duration": -0.761
+  },
+  {
+    "text": "It's like a luxury mall in the ocean.",
+    "start": 701.3066666666666,
+    "duration": 1.696
+  },
+  {
+    "text": "There's a Starbucks, a Chanel, an entire beauty store.",
+    "start": 703.0022307692308,
+    "duration": 3.648
+  },
+  {
+    "text": "Also, what the heck is this thing?",
+    "start": 706.6502564102564,
+    "duration": 1.288
+  },
+  {
+    "text": "What the heck is this?",
+    "start": 707.9377777777778,
+    "duration": 2.542
   },
   {
     "text": "What's going on?",
@@ -520,14 +1125,39 @@
     "duration": 4.24
   },
   {
-    "text": "I stand in it. I don't know. Oh, they're running up it. You just run up it. All right, the rumors are true. I put on my",
+    "text": "I stand in it.",
     "start": 710.48,
-    "duration": 8.479
+    "duration": 1.68
   },
   {
-    "text": "swimming outfit. Everyone on the boat's talking about it.",
-    "start": 716.8,
-    "duration": 4.88
+    "text": "I don't know.",
+    "start": 712.16,
+    "duration": 1.56
+  },
+  {
+    "text": "Oh, they're running up it.",
+    "start": 713.7199999999999,
+    "duration": 0.636
+  },
+  {
+    "text": "You just run up it.",
+    "start": 714.3555555555555,
+    "duration": 2.111
+  },
+  {
+    "text": "All right, the rumors are true.",
+    "start": 716.4666666666666,
+    "duration": 1.358
+  },
+  {
+    "text": "I put on my swimming outfit.",
+    "start": 717.824552631579,
+    "duration": 0.255
+  },
+  {
+    "text": "Everyone on the boat's talking about it.",
+    "start": 718.0795789473684,
+    "duration": 3.6
   },
   {
     "text": ">> Did you see that guy walking around in a swimming outfit?",
@@ -535,19 +1165,24 @@
     "duration": 4.321
   },
   {
-    "text": ">> Anyways, I believe this is the pizza place that I now have access to to get complimentary pizza unlimited. No limitations the amount of pizza slices I",
+    "text": ">> Anyways, I believe this is the pizza place that I now have access to to get complimentary pizza unlimited.",
     "start": 722.56,
-    "duration": 10.6
+    "duration": 6.89
   },
   {
-    "text": "can get for free.",
-    "start": 729.68,
-    "duration": 3.48
+    "text": "No limitations the amount of pizza slices I can get for free.",
+    "start": 729.45,
+    "duration": 3.71
   },
   {
-    "text": "Hello. Is this complimentary?",
+    "text": "Hello.",
     "start": 734.0,
-    "duration": 2.959
+    "duration": 0.634
+  },
+  {
+    "text": "Is this complimentary?",
+    "start": 734.6340714285715,
+    "duration": 2.325
   },
   {
     "text": ">> Yes, it is.",
@@ -555,29 +1190,69 @@
     "duration": 3.12
   },
   {
-    "text": ">> Oh, can I get uh two pepperoni slices, please? Complimentary. Thank you.",
+    "text": ">> Oh, can I get uh two pepperoni slices, please?",
     "start": 736.959,
-    "duration": 9.201
+    "duration": 3.936
   },
   {
-    "text": ">> I am absolutely exploiting the fact that this pizza is complimentary. Two slices.",
+    "text": "Complimentary.",
+    "start": 740.8954838709677,
+    "duration": 3.071
+  },
+  {
+    "text": "Thank you.",
+    "start": 743.9664516129033,
+    "duration": 2.194
+  },
+  {
+    "text": ">> I am absolutely exploiting the fact that this pizza is complimentary.",
     "start": 744.0,
-    "duration": 6.399
+    "duration": 5.203
   },
   {
-    "text": "He's crazy. There's not many things better in life than free pizza.",
+    "text": "Two slices.",
+    "start": 749.2033846153846,
+    "duration": 1.196
+  },
+  {
+    "text": "He's crazy.",
     "start": 748.959,
-    "duration": 5.401
+    "duration": 1.747
   },
   {
-    "text": "All right, we're heading to the water park. Let's go to the water park.",
+    "text": "There's not many things better in life than free pizza.",
+    "start": 750.7063823529411,
+    "duration": 3.654
+  },
+  {
+    "text": "All right, we're heading to the water park.",
     "start": 755.44,
-    "duration": 6.12
+    "duration": 2.374
   },
   {
-    "text": "[Music] This is insane. I don't even know where to start. I have so many questions. Have you guys gone on any slides yet?",
+    "text": "Let's go to the water park.",
+    "start": 757.81375,
+    "duration": 3.746
+  },
+  {
+    "text": "[Music] This is insane.",
     "start": 764.87,
-    "duration": 10.649
+    "duration": 3.846
+  },
+  {
+    "text": "I don't even know where to start.",
+    "start": 768.7157894736843,
+    "duration": 1.2
+  },
+  {
+    "text": "I have so many questions.",
+    "start": 769.9157894736842,
+    "duration": 2.211
+  },
+  {
+    "text": "Have you guys gone on any slides yet?",
+    "start": 772.1263157894737,
+    "duration": 3.393
   },
   {
     "text": ">> Yes, we've gone on four of the uh >> What's your favorite slide at the water park?",
@@ -605,9 +1280,14 @@
     "duration": 4.081
   },
   {
-    "text": ">> Oh, it's so exciting. So fun.",
+    "text": ">> Oh, it's so exciting.",
     "start": 782.88,
-    "duration": 3.44
+    "duration": 2.663
+  },
+  {
+    "text": "So fun.",
+    "start": 785.5432258064516,
+    "duration": 0.777
   },
   {
     "text": ">> Say something crazy.",
@@ -620,9 +1300,19 @@
     "duration": 5.04
   },
   {
-    "text": ">> That's wacky. That's a wacky thing to say. How do they fit this many size on a boat?",
+    "text": ">> That's wacky.",
     "start": 789.519,
-    "duration": 6.241
+    "duration": 1.445
+  },
+  {
+    "text": "That's a wacky thing to say.",
+    "start": 790.9635128205128,
+    "duration": 0.602
+  },
+  {
+    "text": "How do they fit this many size on a boat?",
+    "start": 791.5651282051282,
+    "duration": 4.195
   },
   {
     "text": ">> I don't know.",
@@ -630,29 +1320,64 @@
     "duration": 4.08
   },
   {
-    "text": "I've done my research and my conclusion is simple. I got to ride every slide on this entire ship.",
+    "text": "I've done my research and my conclusion is simple.",
     "start": 795.76,
-    "duration": 8.079
+    "duration": 2.838
   },
   {
-    "text": "That's sick. That's a sick thing to say.",
+    "text": "I got to ride every slide on this entire ship.",
+    "start": 798.5976315789475,
+    "duration": 5.241
+  },
+  {
+    "text": "That's sick.",
     "start": 801.839,
-    "duration": 3.68
+    "duration": 1.132
   },
   {
-    "text": "There's also mini golf up here, but I already did that just now. That was fun.",
+    "text": "That's a sick thing to say.",
+    "start": 802.9713076923077,
+    "duration": 2.548
+  },
+  {
+    "text": "There's also mini golf up here, but I already did that just now.",
     "start": 803.839,
-    "duration": 5.761
+    "duration": 4.401
   },
   {
-    "text": "Not much else to say. Let's get it. Here goes nothing. I can't believe this came with my room. First up, I'm going on the",
+    "text": "That was fun.",
+    "start": 808.2396666666667,
+    "duration": 1.36
+  },
+  {
+    "text": "Not much else to say.",
     "start": 807.92,
-    "duration": 9.44
+    "duration": 2.166
   },
   {
-    "text": "pressure drop. This sounds insane.",
-    "start": 813.68,
-    "duration": 3.68
+    "text": "Let's get it.",
+    "start": 810.0857631578947,
+    "duration": 1.341
+  },
+  {
+    "text": "Here goes nothing.",
+    "start": 811.4264736842105,
+    "duration": -0.431
+  },
+  {
+    "text": "I can't believe this came with my room.",
+    "start": 810.9957894736842,
+    "duration": 2.684
+  },
+  {
+    "text": "First up, I'm going on the pressure drop.",
+    "start": 813.6793333333334,
+    "duration": 1.562
+  },
+  {
+    "text": "This sounds insane.",
+    "start": 815.241212121212,
+    "duration": 2.119
   },
   {
     "text": "[Applause] [Music] I just met Tim and we're going to race each other on a slide.",
@@ -660,19 +1385,34 @@
     "duration": 21.72
   },
   {
-    "text": "[Music] The last slide I'm going to ride today is the green one. It looks ridiculous.",
+    "text": "[Music] The last slide I'm going to ride today is the green one.",
     "start": 830.71,
-    "duration": 23.129
+    "duration": 21.097
   },
   {
-    "text": "The only thing is the lifeguards don't allow you to bring your phone on the slide. Safety, of course. However, I did my research and I'm allowed to bring",
+    "text": "It looks ridiculous.",
+    "start": 851.8065675675675,
+    "duration": 2.032
+  },
+  {
+    "text": "The only thing is the lifeguards don't allow you to bring your phone on the slide.",
     "start": 852.32,
-    "duration": 8.8
+    "duration": 3.321
   },
   {
-    "text": "this wrist strap on the slide with me and film. Trust me, the footage I'm about to get on this wrist strap is going to be cinema.",
-    "start": 859.279,
-    "duration": 9.0
+    "text": "Safety, of course.",
+    "start": 855.6411052631579,
+    "duration": 2.046
+  },
+  {
+    "text": "However, I did my research and I'm allowed to bring this wrist strap on the slide with me and film.",
+    "start": 857.6874210526316,
+    "duration": 4.386
+  },
+  {
+    "text": "Trust me, the footage I'm about to get on this wrist strap is going to be cinema.",
+    "start": 862.0729411764706,
+    "duration": 6.206
   },
   {
     "text": "That was electric, Tim.",
@@ -680,39 +1420,89 @@
     "duration": 2.321
   },
   {
-    "text": ">> Oh, yeah. That was good.",
+    "text": ">> Oh, yeah.",
     "start": 879.76,
-    "duration": 2.48
+    "duration": 1.145
   },
   {
-    "text": ">> We went back down the slide again and actually got this cool shot. Hopefully hopefully you think this shot was cool.",
+    "text": "That was good.",
+    "start": 880.9046153846153,
+    "duration": 1.335
+  },
+  {
+    "text": ">> We went back down the slide again and actually got this cool shot.",
     "start": 880.72,
-    "duration": 6.32
+    "duration": 3.759
   },
   {
-    "text": "I'm just going to play it again. Pretty cool. Yeah. I don't know. You tell me.",
+    "text": "Hopefully hopefully you think this shot was cool.",
+    "start": 884.4792432432432,
+    "duration": 2.561
+  },
+  {
+    "text": "I'm just going to play it again.",
     "start": 885.199,
-    "duration": 6.2
+    "duration": 5.221
   },
   {
-    "text": "What a day at the water park. I'm wearing blue jeans cuz I'm about to go to a fancy dinner. But first, I just got to say, yes, this room comes with a nice",
+    "text": "Pretty cool.",
+    "start": 890.4200526315789,
+    "duration": -2.757
+  },
+  {
+    "text": "Yeah.",
+    "start": 887.6627142857143,
+    "duration": 0.623
+  },
+  {
+    "text": "I don't know.",
+    "start": 888.2854285714286,
+    "duration": 1.619
+  },
+  {
+    "text": "You tell me.",
+    "start": 889.9044857142858,
+    "duration": 1.495
+  },
+  {
+    "text": "What a day at the water park.",
     "start": 903.04,
-    "duration": 8.799
+    "duration": 2.754
   },
   {
-    "text": "balcony. It's got the coffee maker. It's got the couch. But the Wi-Fi package on this cruise ship is extremely expensive.",
-    "start": 909.92,
-    "duration": 7.52
+    "text": "I'm wearing blue jeans cuz I'm about to go to a fancy dinner.",
+    "start": 905.79409375,
+    "duration": 2.058
   },
   {
-    "text": "But since I'm staying in Sunset Corner Suite, complimentary. Anyway, the Wi-Fi thing is great because when I was at the",
+    "text": "But first, I just got to say, yes, this room comes with a nice balcony.",
+    "start": 907.8517692307692,
+    "duration": 2.86
+  },
+  {
+    "text": "It's got the coffee maker.",
+    "start": 910.7115789473684,
+    "duration": 2.573
+  },
+  {
+    "text": "It's got the couch.",
+    "start": 913.2842105263157,
+    "duration": -0.001
+  },
+  {
+    "text": "But the Wi-Fi package on this cruise ship is extremely expensive.",
+    "start": 913.2835789473685,
+    "duration": 4.156
+  },
+  {
+    "text": "But since I'm staying in Sunset Corner Suite, complimentary.",
     "start": 915.76,
-    "duration": 7.92
+    "duration": 4.244
   },
   {
-    "text": "water park, I ran into a kid who reminded me of something.",
-    "start": 922.079,
-    "duration": 4.481
+    "text": "Anyway, the Wi-Fi thing is great because when I was at the water park, I ran into a kid who reminded me of something.",
+    "start": 920.0036578947369,
+    "duration": 6.556
   },
   {
     "text": ">> What does Joyide do for Halloween?",
@@ -720,19 +1510,34 @@
     "duration": 3.919
   },
   {
-    "text": ">> Oh. Uh, a few weeks ago, I had this idea to surprise some Joyide customers with free candy for Halloween. Everybody's",
+    "text": ">> Oh.",
     "start": 926.56,
-    "duration": 6.8
+    "duration": 0.548
   },
   {
-    "text": "going to be eating candy on Halloween.",
-    "start": 932.079,
-    "duration": 2.641
+    "text": "Uh, a few weeks ago, I had this idea to surprise some Joyide customers with free candy for Halloween.",
+    "start": 927.1084285714285,
+    "duration": 5.347
   },
   {
-    "text": "It might as well be Joy Ride. Great idea, Ryan. And as you know by now, I use Shopify to power our Joyide store.",
+    "text": "Everybody's going to be eating candy on Halloween.",
+    "start": 932.45525,
+    "duration": 2.265
+  },
+  {
+    "text": "It might as well be Joy Ride.",
     "start": 933.36,
-    "duration": 7.039
+    "duration": 2.729
+  },
+  {
+    "text": "Great idea, Ryan.",
+    "start": 936.0894117647059,
+    "duration": -0.123
+  },
+  {
+    "text": "And as you know by now, I use Shopify to power our Joyide store.",
+    "start": 935.9666666666667,
+    "duration": 4.432
   },
   {
     "text": "From launching the very first Sour Strips pack to now shipping gummy worms, cherry ropes, and countless other candies, Shopify has been the backbone",
@@ -740,49 +1545,99 @@
     "duration": 9.279
   },
   {
-    "text": "of our store since day one. And lucky for me, they now have this little guy named Sidekick who can make all of my ideas come to life. It feels like magic.",
+    "text": "of our store since day one.",
     "start": 945.839,
-    "duration": 10.081
+    "duration": 3.18
   },
   {
-    "text": "Here's what I just asked Sidekick. Give me a list of 50 customers, one from each US state, and let me know their favorite",
+    "text": "And lucky for me, they now have this little guy named Sidekick who can make all of my ideas come to life.",
+    "start": 949.019,
+    "duration": 4.973
+  },
+  {
+    "text": "It feels like magic.",
+    "start": 953.9917948717948,
+    "duration": 1.928
+  },
+  {
+    "text": "Here's what I just asked Sidekick.",
     "start": 954.24,
-    "duration": 6.959
+    "duration": 3.293
   },
   {
-    "text": "candy so I can surprise them with a free box of joy ride by Halloween. Within seconds, Sidekick pulled a list of customers from every US state along with",
-    "start": 959.519,
-    "duration": 9.521
+    "text": "Give me a list of 50 customers, one from each US state, and let me know their favorite candy so I can surprise them with a free",
+    "start": 957.5326315789474,
+    "duration": 5.507
   },
   {
-    "text": "their favorite flavors and even told me the best date to ship so it arrives right on Halloween. This is the most fun I've had since I put cilantro",
-    "start": 967.36,
-    "duration": 8.0
+    "text": "box of joy ride by Halloween.",
+    "start": 961.199,
+    "duration": 3.05
   },
   {
-    "text": "conditioner in my hair. And Sidekick will even help me send an email to the customers I'm surprising with free joy ride. This would have taken me all",
-    "start": 973.6,
-    "duration": 8.479
+    "text": "Within seconds, Sidekick pulled a list of customers from every US state along with their favorite flavors and even told me",
+    "start": 964.2489714285714,
+    "duration": 6.311
   },
   {
-    "text": "night. Now I have time to go to dinner.",
-    "start": 980.32,
-    "duration": 4.079
+    "text": "the best date to ship so it arrives right on Halloween.",
+    "start": 969.04,
+    "duration": 3.001
   },
   {
-    "text": "That's why I'm wearing my fancy jeans for dinner. It's a steak dinner. Whether you've got a weird idea, need help solving a problem, or just want to",
+    "text": "This is the most fun I've had since I put cilantro conditioner in my hair.",
+    "start": 972.0410256410256,
+    "duration": 3.872
+  },
+  {
+    "text": "And Sidekick will even help me send an email to the customers I'm surprising with free joy ride.",
+    "start": 975.9131428571429,
+    "duration": 3.316
+  },
+  {
+    "text": "This would have taken me all night.",
+    "start": 979.2289393939394,
+    "duration": 1.735
+  },
+  {
+    "text": "Now I have time to go to dinner.",
+    "start": 980.964052631579,
+    "duration": 3.435
+  },
+  {
+    "text": "That's why I'm wearing my fancy jeans for dinner.",
     "start": 982.079,
-    "duration": 9.12
+    "duration": 3.362
   },
   {
-    "text": "understand your customers a little better, Sidekick can do it all. Now more than ever is the best time to start your business on Shopify. So sign up using my",
-    "start": 989.92,
-    "duration": 10.08
+    "text": "It's a steak dinner.",
+    "start": 985.4413947368421,
+    "duration": 1.895
   },
   {
-    "text": "link, shopify.com/riantraan, or just scan the QR code on screen. That works, too. Thank you Shopify for sponsoring this video.",
-    "start": 997.519,
-    "duration": 12.601
+    "text": "Whether you've got a weird idea, need help solving a problem, or just want to understand your customers a little better, Sidekick can do it all.",
+    "start": 987.3366578947368,
+    "duration": 7.17
+  },
+  {
+    "text": "Now more than ever is the best time to start your business on Shopify.",
+    "start": 994.5064615384615,
+    "duration": 3.233
+  },
+  {
+    "text": "So sign up using my link, shopify.com/riantraan, or just scan the QR code on screen.",
+    "start": 997.7394871794872,
+    "duration": 5.348
+  },
+  {
+    "text": "That works, too.",
+    "start": 1003.0871794871795,
+    "duration": 0.4
+  },
+  {
+    "text": "Thank you Shopify for sponsoring this video.",
+    "start": 1003.4875,
+    "duration": 6.633
   },
   {
     "text": "I'm going to go to dinner.",
@@ -790,9 +1645,14 @@
     "duration": 3.64
   },
   {
-    "text": "[Music] >> Wow. Thank you so much.",
+    "text": "[Music] >> Wow.",
     "start": 1011.74,
-    "duration": 14.66
+    "duration": 5.674
+  },
+  {
+    "text": "Thank you so much.",
+    "start": 1017.4144,
+    "duration": 8.986
   },
   {
     "text": "[Music] >> My name's Ryan.",
@@ -800,9 +1660,14 @@
     "duration": 10.62
   },
   {
-    "text": ">> Oh, Ryan. Marlin.",
+    "text": ">> Oh, Ryan.",
     "start": 1027.199,
-    "duration": 2.24
+    "duration": 1.415
+  },
+  {
+    "text": "Marlin.",
+    "start": 1028.6137368421053,
+    "duration": 0.825
   },
   {
     "text": ">> I'm thinking about throwing a party tomorrow night.",
@@ -815,14 +1680,34 @@
     "duration": 2.959
   },
   {
-    "text": ">> Are you able to make it? Uh, no. Because uh now we will finish here in the restaurant around midnight. So 12:00 in the morning.",
+    "text": ">> Are you able to make it?",
     "start": 1030.559,
-    "duration": 9.041
+    "duration": 3.162
   },
   {
-    "text": ">> Okay. So you work late?",
+    "text": "Uh, no.",
+    "start": 1033.7206341463414,
+    "duration": 0.82
+  },
+  {
+    "text": "Because uh now we will finish here in the restaurant around midnight.",
+    "start": 1034.5403170731706,
+    "duration": 2.98
+  },
+  {
+    "text": "So 12:00 in the morning.",
+    "start": 1037.52,
+    "duration": 2.08
+  },
+  {
+    "text": ">> Okay.",
     "start": 1038.4,
-    "duration": 2.159
+    "duration": 0.691
+  },
+  {
+    "text": "So you work late?",
+    "start": 1039.0908800000002,
+    "duration": 1.468
   },
   {
     "text": ">> Yeah, I work late.",
@@ -835,29 +1720,64 @@
     "duration": 12.081
   },
   {
-    "text": "[Music] >> What a day. Today I decided I'm throwing a party. I'm doing it on this ship. The community that I am fostering is",
+    "text": "[Music] >> What a day.",
     "start": 1044.31,
-    "duration": 15.53
+    "duration": 9.583
   },
   {
-    "text": "unparalleled. We are the strongest community on this cruise ship. I just I just feel it. Sure, Marlin can't come to my party. However, Tim is down and he",
-    "start": 1058.24,
-    "duration": 10.319
+    "text": "Today I decided I'm throwing a party.",
+    "start": 1053.8933333333334,
+    "duration": 1.65
   },
   {
-    "text": "might even be able to bring his parents.",
-    "start": 1067.039,
-    "duration": 3.041
+    "text": "I'm doing it on this ship.",
+    "start": 1055.543,
+    "duration": 2.418
   },
   {
-    "text": "I can't believe I'm going to an even cooler room tomorrow morning. I just can't believe it. I can't quite envision it now how it gets better than this, but",
+    "text": "The community that I am fostering is unparalleled.",
+    "start": 1057.9609999999998,
+    "duration": 1.666
+  },
+  {
+    "text": "We are the strongest community on this cruise ship.",
+    "start": 1059.6266666666668,
+    "duration": 3.308
+  },
+  {
+    "text": "I just I just feel it.",
+    "start": 1062.9347368421052,
+    "duration": 0.585
+  },
+  {
+    "text": "Sure, Marlin can't come to my party.",
+    "start": 1063.5196666666666,
+    "duration": 1.44
+  },
+  {
+    "text": "However, Tim is down and he might even be able to bring his parents.",
+    "start": 1064.95975,
+    "duration": 5.12
+  },
+  {
+    "text": "I can't believe I'm going to an even cooler room tomorrow morning.",
     "start": 1068.559,
-    "duration": 13.501
+    "duration": 4.57
   },
   {
-    "text": "it does. Good night, sweetie.",
-    "start": 1076.48,
-    "duration": 13.04
+    "text": "I just can't believe it.",
+    "start": 1073.1291428571428,
+    "duration": 0.824
+  },
+  {
+    "text": "I can't quite envision it now how it gets better than this, but it does.",
+    "start": 1073.9528205128206,
+    "duration": 6.253
+  },
+  {
+    "text": "Good night, sweetie.",
+    "start": 1080.2057142857143,
+    "duration": 9.314
   },
   {
     "text": "[Music] It's the last day and I finally get to wear my cool shirt.",
@@ -865,19 +1785,44 @@
     "duration": 35.34
   },
   {
-    "text": "[Music] [Music] [Music] This is the most expensive room on this entire cruise ship. There's only one of them and it is called the ultimate",
+    "text": "[Music] [Music] [Music] This is the most expensive room on this entire cruise ship.",
     "start": 1093.33,
-    "duration": 53.07
+    "duration": 47.91
   },
   {
-    "text": "family townhouse. This is the main level. And yes, this is the living room.",
-    "start": 1143.84,
-    "duration": 6.48
+    "text": "There's only one of them and it is called the ultimate family townhouse.",
+    "start": 1141.24,
+    "duration": 4.99
   },
   {
-    "text": "The living room has a slide in it. Can you believe this? Can Oh, wo. There's a secret hangout nook behind the slide.",
+    "text": "This is the main level.",
+    "start": 1146.230303030303,
+    "duration": 0.773
+  },
+  {
+    "text": "And yes, this is the living room.",
+    "start": 1147.003076923077,
+    "duration": 3.317
+  },
+  {
+    "text": "The living room has a slide in it.",
     "start": 1148.48,
-    "duration": 8.8
+    "duration": 4.631
+  },
+  {
+    "text": "Can you believe this?",
+    "start": 1153.1113513513515,
+    "duration": -0.512
+  },
+  {
+    "text": "Can Oh, wo.",
+    "start": 1152.5989189189188,
+    "duration": 1.475
+  },
+  {
+    "text": "There's a secret hangout nook behind the slide.",
+    "start": 1154.0735135135135,
+    "duration": 3.206
   },
   {
     "text": "This level also has a full movie theater with a PlayStation 5, Nintendo Switch, and coffee bar and snow code machine and",
@@ -885,54 +1830,169 @@
     "duration": 8.08
   },
   {
-    "text": "fridge full of fun drinks and whatever the heck this table is. You touch it.",
+    "text": "fridge full of fun drinks and whatever the heck this table is.",
     "start": 1161.6,
-    "duration": 5.76
+    "duration": 4.316
   },
   {
-    "text": "It's touchscreen. It's crazy. Let's go check the upstairs now.",
+    "text": "You touch it.",
+    "start": 1165.9155555555556,
+    "duration": 1.444
+  },
+  {
+    "text": "It's touchscreen.",
     "start": 1165.039,
-    "duration": 7.76
+    "duration": 2.494
   },
   {
-    "text": "What the heck? It seems the staircase is a piano. Imagine getting in an argument and then you got to go up these stairs.",
+    "text": "It's crazy.",
+    "start": 1167.5328055555556,
+    "duration": 1.614
+  },
+  {
+    "text": "Let's go check the upstairs now.",
+    "start": 1169.1464444444446,
+    "duration": 3.653
+  },
+  {
+    "text": "What the heck?",
     "start": 1170.32,
-    "duration": 8.28
+    "duration": 1.522
   },
   {
-    "text": "This is the top floor. Of course, the slide entrance and two bunk beds. Each bunk bed has its own TV as well. I love these beach ball lights. So, this must",
+    "text": "It seems the staircase is a piano.",
+    "start": 1171.8416923076923,
+    "duration": 2.179
+  },
+  {
+    "text": "Imagine getting in an argument and then you got to go up these stairs.",
+    "start": 1174.0202631578948,
+    "duration": 4.58
+  },
+  {
+    "text": "This is the top floor.",
     "start": 1180.0,
-    "duration": 11.6
+    "duration": 3.178
   },
   {
-    "text": "be the main bedroom. My goodness, look at these animals. Towel animals. They got googly eyes.",
-    "start": 1189.12,
-    "duration": 8.48
+    "text": "Of course, the slide entrance and two bunk beds.",
+    "start": 1183.1777777777777,
+    "duration": 3.415
   },
   {
-    "text": "[Music] Maybe the coziest bed yet. The main bathroom is unbelievable. I walked to the shower and collided with the glass.",
+    "text": "Each bunk bed has its own TV as well.",
+    "start": 1186.5924324324324,
+    "duration": 1.909
+  },
+  {
+    "text": "I love these beach ball lights.",
+    "start": 1188.501052631579,
+    "duration": 1.525
+  },
+  {
+    "text": "So, this must be the main bedroom.",
+    "start": 1190.0259459459458,
+    "duration": 2.121
+  },
+  {
+    "text": "My goodness, look at these animals.",
+    "start": 1192.147027027027,
+    "duration": 1.746
+  },
+  {
+    "text": "Towel animals.",
+    "start": 1193.8925714285713,
+    "duration": 1.888
+  },
+  {
+    "text": "They got googly eyes.",
+    "start": 1195.7805714285712,
+    "duration": 1.819
+  },
+  {
+    "text": "[Music] Maybe the coziest bed yet.",
     "start": 1196.32,
-    "duration": 8.4
+    "duration": 4.278
   },
   {
-    "text": "It's so clear. I didn't even see it. How did they clean it that good? And last but not least, the bottom level has this",
+    "text": "The main bathroom is unbelievable.",
+    "start": 1200.5976470588234,
+    "duration": 1.317
+  },
+  {
+    "text": "I walked to the shower and collided with the glass.",
+    "start": 1201.9148611111111,
+    "duration": 2.805
+  },
+  {
+    "text": "It's so clear.",
     "start": 1203.039,
-    "duration": 6.801
+    "duration": 1.12
   },
   {
-    "text": "outdoor seating area. I mean, look at this. How cool is this? There's a dolphin unicorn. Hey, look. That's me.",
-    "start": 1208.0,
-    "duration": 7.36
+    "text": "I didn't even see it.",
+    "start": 1204.1593684210527,
+    "duration": 1.681
   },
   {
-    "text": "That's me on the cruise ship on the balcony. I guess we're docked on an island right now. This is beautiful. So, this is our final room. I don't know",
+    "text": "How did they clean it that good?",
+    "start": 1205.8399210526316,
+    "duration": 1.431
+  },
+  {
+    "text": "And last but not least, the bottom level has this outdoor seating area.",
+    "start": 1207.2711111111112,
+    "duration": 2.829
+  },
+  {
+    "text": "I mean, look at this.",
+    "start": 1210.1,
+    "duration": 0.424
+  },
+  {
+    "text": "How cool is this?",
+    "start": 1210.523870967742,
+    "duration": 2.325
+  },
+  {
+    "text": "There's a dolphin unicorn.",
+    "start": 1212.8490322580644,
+    "duration": 0.422
+  },
+  {
+    "text": "Hey, look.",
+    "start": 1213.271111111111,
+    "duration": 1.044
+  },
+  {
+    "text": "That's me.",
+    "start": 1214.3155555555554,
+    "duration": 1.044
+  },
+  {
+    "text": "That's me on the cruise ship on the balcony.",
     "start": 1214.08,
-    "duration": 7.44
+    "duration": 2.071
   },
   {
-    "text": "about you, but this looks like the perfect place to throw a cruise party.",
-    "start": 1220.24,
-    "duration": 4.559
+    "text": "I guess we're docked on an island right now.",
+    "start": 1216.150588235294,
+    "duration": 2.144
+  },
+  {
+    "text": "This is beautiful.",
+    "start": 1218.2947368421053,
+    "duration": 1.667
+  },
+  {
+    "text": "So, this is our final room.",
+    "start": 1219.962105263158,
+    "duration": 0.598
+  },
+  {
+    "text": "I don't know about you, but this looks like the perfect place to throw a cruise party.",
+    "start": 1220.56,
+    "duration": 4.239
   },
   {
     "text": "I'm not really good at hosting parties.",
@@ -940,39 +2000,104 @@
     "duration": 3.04
   },
   {
-    "text": "People never show up when I host parties. But you guys know this best. I have been building the strongest community on this cruise ship. Ride or",
+    "text": "People never show up when I host parties.",
     "start": 1224.799,
-    "duration": 8.801
+    "duration": 2.334
   },
   {
-    "text": "dies who would go to the ends of the earth for each other. But there's one more thing I haven't told you yet. When I walked in that door, I got a",
-    "start": 1231.84,
-    "duration": 8.319
+    "text": "But you guys know this best.",
+    "start": 1227.132972972973,
+    "duration": 2.845
   },
   {
-    "text": "notification on my phone that said, \"Your genie is awake.\" Genie? What? What do you mean? What do you mean by that?",
-    "start": 1238.559,
-    "duration": 9.36
+    "text": "I have been building the strongest community on this cruise ship.",
+    "start": 1229.9783783783785,
+    "duration": 2.956
   },
   {
-    "text": "Allegedly, this room comes with a genie that can grant your every wish. I said, \"Okay, I have three wishes. One, hamburger, no veggies. Two, berry",
+    "text": "Ride or dies who would go to the ends of the earth for each other.",
+    "start": 1232.934054054054,
+    "duration": 2.626
+  },
+  {
+    "text": "But there's one more thing I haven't told you yet.",
+    "start": 1235.56,
+    "duration": 2.628
+  },
+  {
+    "text": "When I walked in that door, I got a notification on my phone that said, \"Your genie is awake.\" Genie?",
+    "start": 1238.1884736842105,
+    "duration": 6.428
+  },
+  {
+    "text": "What?",
+    "start": 1244.616605263158,
+    "duration": 0.769
+  },
+  {
+    "text": "What do you mean?",
+    "start": 1245.385157894737,
+    "duration": 0.21
+  },
+  {
+    "text": "What do you mean by that?",
+    "start": 1245.5953513513514,
+    "duration": 2.324
+  },
+  {
+    "text": "Allegedly, this room comes with a genie that can grant your every wish.",
     "start": 1246.0,
-    "duration": 11.44
+    "duration": 5.509
   },
   {
-    "text": "smoothie. And three, I want to see the dog. The dog that left the paw prints.",
-    "start": 1254.96,
-    "duration": 6.88
+    "text": "I said, \"Okay, I have three wishes.",
+    "start": 1251.5092894736842,
+    "duration": 2.78
   },
   {
-    "text": "It seems the genie has accepted the order. So, okay. Is >> Oh, hello.",
+    "text": "One, hamburger, no veggies.",
+    "start": 1254.2890322580645,
+    "duration": 1.551
+  },
+  {
+    "text": "Two, berry smoothie.",
+    "start": 1255.84,
+    "duration": 0.326
+  },
+  {
+    "text": "And three, I want to see the dog.",
+    "start": 1256.1662432432433,
+    "duration": 1.749
+  },
+  {
+    "text": "The dog that left the paw prints.",
+    "start": 1257.9156756756756,
+    "duration": 3.924
+  },
+  {
+    "text": "It seems the genie has accepted the order.",
     "start": 1259.919,
-    "duration": 11.681
+    "duration": 3.798
   },
   {
-    "text": ">> Hello, Mr. Ryan.",
+    "text": "So, okay.",
+    "start": 1263.717294117647,
+    "duration": 2.816
+  },
+  {
+    "text": "Is >> Oh, hello.",
+    "start": 1266.5332352941177,
+    "duration": 5.067
+  },
+  {
+    "text": ">> Hello, Mr.",
     "start": 1270.559,
-    "duration": 2.801
+    "duration": 2.023
+  },
+  {
+    "text": "Ryan.",
+    "start": 1272.5819444444444,
+    "duration": 0.778
   },
   {
     "text": ">> Is this the burger and berry smoothie?",
@@ -1000,14 +2125,29 @@
     "duration": 3.441
   },
   {
-    "text": ">> Uh, no, sir. I'm your room service attendant.",
+    "text": ">> Uh, no, sir.",
     "start": 1277.28,
-    "duration": 3.2
+    "duration": 1.133
   },
   {
-    "text": ">> Okay. Hey, >> every time you order, the genie will pass the information to us. They will take care of you.",
+    "text": "I'm your room service attendant.",
+    "start": 1278.4133333333334,
+    "duration": 2.067
+  },
+  {
+    "text": ">> Okay.",
     "start": 1280.0,
-    "duration": 7.52
+    "duration": 1.6
+  },
+  {
+    "text": "Hey, >> every time you order, the genie will pass the information to us.",
+    "start": 1281.6,
+    "duration": 2.779
+  },
+  {
+    "text": "They will take care of you.",
+    "start": 1284.3792500000002,
+    "duration": 3.141
   },
   {
     "text": ">> Lovely.",
@@ -1045,14 +2185,29 @@
     "duration": 2.8
   },
   {
-    "text": ">> My name is Fman, sir. Fearman from Indonesia.",
+    "text": ">> My name is Fman, sir.",
     "start": 1297.28,
-    "duration": 4.96
+    "duration": 1.813
   },
   {
-    "text": ">> Indonesia. That's amazing. All right.",
+    "text": "Fearman from Indonesia.",
+    "start": 1299.0933333333332,
+    "duration": 3.147
+  },
+  {
+    "text": ">> Indonesia.",
     "start": 1300.0,
-    "duration": 3.44
+    "duration": 1.177
+  },
+  {
+    "text": "That's amazing.",
+    "start": 1301.1768421052632,
+    "duration": 1.358
+  },
+  {
+    "text": "All right.",
+    "start": 1302.5347368421053,
+    "duration": 0.905
   },
   {
     "text": ">> One of your friends.",
@@ -1060,9 +2215,29 @@
     "duration": 3.679
   },
   {
-    "text": ">> Oh, no way. Are you serious? On. Thank you, Fearman. Yes.",
+    "text": ">> Oh, no way.",
     "start": 1303.44,
-    "duration": 4.56
+    "duration": 1.385
+  },
+  {
+    "text": "Are you serious?",
+    "start": 1304.8252631578948,
+    "duration": 1.583
+  },
+  {
+    "text": "On.",
+    "start": 1306.4084210526316,
+    "duration": 0.297
+  },
+  {
+    "text": "Thank you, Fearman.",
+    "start": 1306.7052631578947,
+    "duration": 0.805
+  },
+  {
+    "text": "Yes.",
+    "start": 1307.5103529411765,
+    "duration": 0.49
   },
   {
     "text": ">> Have a great day, sir.",
@@ -1070,29 +2245,54 @@
     "duration": 2.24
   },
   {
-    "text": ">> All right. See you soon. I bet >> part of me is completely astounded at how magical this is. And the other part of me is like, would I have actually",
+    "text": ">> All right.",
     "start": 1308.0,
-    "duration": 8.96
+    "duration": 1.241
   },
   {
-    "text": "just used my only three wishes on a burger smoothie and a potential dog?",
-    "start": 1314.72,
-    "duration": 6.48
+    "text": "See you soon.",
+    "start": 1309.2412903225807,
+    "duration": 1.241
   },
   {
-    "text": "This is genie economics that isn't talked about enough. I've got the Minecraft movie on in the back. Also, I really thought Fearman was my genie",
+    "text": "I bet >> part of me is completely astounded at how magical this is.",
+    "start": 1310.4825806451613,
+    "duration": 2.456
+  },
+  {
+    "text": "And the other part of me is like, would I have actually just used my only three wishes on a burger smoothie and a potential dog?",
+    "start": 1312.9389473684212,
+    "duration": 8.261
+  },
+  {
+    "text": "This is genie economics that isn't talked about enough.",
     "start": 1319.52,
-    "duration": 8.32
+    "duration": 3.73
   },
   {
-    "text": "there for a second. My mind is reeling at the potential of a party in here, but for now, I got to eat. Your boy's got to",
-    "start": 1326.0,
-    "duration": 6.88
+    "text": "I've got the Minecraft movie on in the back.",
+    "start": 1323.25,
+    "duration": 2.102
   },
   {
-    "text": "eat. Your boy's got to get a burger down in his system.",
-    "start": 1331.44,
-    "duration": 6.909
+    "text": "Also, I really thought Fearman was my genie there for a second.",
+    "start": 1325.3515789473684,
+    "duration": 2.538
+  },
+  {
+    "text": "My mind is reeling at the potential of a party in here, but for now, I got to eat.",
+    "start": 1327.8892162162163,
+    "duration": 3.595
+  },
+  {
+    "text": "Your boy's got to eat.",
+    "start": 1331.4846923076923,
+    "duration": 0.346
+  },
+  {
+    "text": "Your boy's got to get a burger down in his system.",
+    "start": 1331.8307692307692,
+    "duration": 6.518
   },
   {
     "text": "[Music] [Music] Oh my gosh, he's real.",
@@ -1100,9 +2300,19 @@
     "duration": 18.909
   },
   {
-    "text": "That's a cute. I love this dog. Spock, if you're watching this, look away.",
+    "text": "That's a cute.",
     "start": 1351.2,
-    "duration": 7.12
+    "duration": 2.147
+  },
+  {
+    "text": "I love this dog.",
+    "start": 1353.3466666666668,
+    "duration": 2.453
+  },
+  {
+    "text": "Spock, if you're watching this, look away.",
+    "start": 1355.8000000000002,
+    "duration": 2.52
   },
   {
     "text": "This is the newest member of our community, Sailor.",
@@ -1110,19 +2320,69 @@
     "duration": 16.48
   },
   {
-    "text": "[Music] Sailor just left. She had a business meeting. That was the highlight of my life. That would that right there. What",
+    "text": "[Music] Sailor just left.",
     "start": 1361.0,
-    "duration": 18.84
+    "duration": 13.91
   },
   {
-    "text": "you just watched. Hopefully Sailor will be attending my party later. However, there's still so much fun stuff to do in this room that I haven't even tried yet.",
-    "start": 1378.159,
-    "duration": 8.961
+    "text": "She had a business meeting.",
+    "start": 1374.9097142857142,
+    "duration": 1.01
   },
   {
-    "text": "My fun drink of choice today is going to be apple juice. It just is. So, what are we doing for fun? I'm playing Mario Kart. Oh no. I'm going down the slide.",
+    "text": "That was the highlight of my life.",
+    "start": 1375.9197777777777,
+    "duration": 1.222
+  },
+  {
+    "text": "That would that right there.",
+    "start": 1377.1416216216217,
+    "duration": 2.361
+  },
+  {
+    "text": "What you just watched.",
+    "start": 1379.5027027027027,
+    "duration": 0.375
+  },
+  {
+    "text": "Hopefully Sailor will be attending my party later.",
+    "start": 1379.8773421052633,
+    "duration": 3.074
+  },
+  {
+    "text": "However, there's still so much fun stuff to do in this room that I haven't even tried yet.",
+    "start": 1382.951111111111,
+    "duration": 4.169
+  },
+  {
+    "text": "My fun drink of choice today is going to be apple juice.",
     "start": 1385.36,
-    "duration": 10.319
+    "duration": 3.149
+  },
+  {
+    "text": "It just is.",
+    "start": 1388.5094736842104,
+    "duration": 1.019
+  },
+  {
+    "text": "So, what are we doing for fun?",
+    "start": 1389.5284210526315,
+    "duration": 1.832
+  },
+  {
+    "text": "I'm playing Mario Kart.",
+    "start": 1391.3600000000001,
+    "duration": -0.02
+  },
+  {
+    "text": "Oh no.",
+    "start": 1391.3398611111113,
+    "duration": 0.84
+  },
+  {
+    "text": "I'm going down the slide.",
+    "start": 1392.1796944444447,
+    "duration": 3.499
   },
   {
     "text": "I'm going down the slide several times.",
@@ -1135,59 +2395,139 @@
     "duration": 12.321
   },
   {
-    "text": "I also got to see the captain's area of the cruise ship. These guys are driving the boat. They just let me see it.",
+    "text": "I also got to see the captain's area of the cruise ship.",
     "start": 1406.0,
-    "duration": 6.159
+    "duration": 3.145
   },
   {
-    "text": "That's crazy. When I came back to the room, I made an apple juice cone and ate it on the balcony. Can you believe this?",
+    "text": "These guys are driving the boat.",
+    "start": 1409.1452631578948,
+    "duration": 1.036
+  },
+  {
+    "text": "They just let me see it.",
+    "start": 1410.1815454545456,
+    "duration": 1.977
+  },
+  {
+    "text": "That's crazy.",
     "start": 1410.72,
-    "duration": 6.48
+    "duration": 1.3
   },
   {
-    "text": "Can you believe this? All comes with my room. Where the heck are we? That's an awesome island. I feel like I've experienced pretty much all that this",
+    "text": "When I came back to the room, I made an apple juice cone and ate it on the balcony.",
+    "start": 1412.02,
+    "duration": 3.629
+  },
+  {
+    "text": "Can you believe this?",
+    "start": 1415.6492307692306,
+    "duration": 1.551
+  },
+  {
+    "text": "Can you believe this?",
     "start": 1415.919,
-    "duration": 9.281
+    "duration": 2.034
   },
   {
-    "text": "cruise ship has to offer. But this room right here is something that only I can experience, at least until 700 p.m. I decided that I'm throwing my party at",
-    "start": 1423.28,
-    "duration": 10.639
+    "text": "All comes with my room.",
+    "start": 1417.9532368421053,
+    "duration": -0.131
   },
   {
-    "text": "7:00. I've asked the genie to organize a party in this room for 700 p.m. and to formally invite my closest friends by referencing this nucleus graphic. I'm",
-    "start": 1431.679,
-    "duration": 11.441
+    "text": "Where the heck are we?",
+    "start": 1417.8220833333335,
+    "duration": 2.737
   },
   {
-    "text": "talking lots of pizza, burgers, chicken strips, and snacks. Rumor has it there's a guy named Admiral Awesome on the ship.",
-    "start": 1441.039,
-    "duration": 8.481
+    "text": "That's an awesome island.",
+    "start": 1420.5592500000002,
+    "duration": 0.821
   },
   {
-    "text": "And if I can get him to come to my party, this is going to be the coolest party of the year. The countdown has begun until the greatest party on the",
+    "text": "I feel like I've experienced pretty much all that this cruise ship has to offer.",
+    "start": 1421.3806451612902,
+    "duration": 4.636
+  },
+  {
+    "text": "But this room right here is something that only I can experience, at least until 700 p.m.",
+    "start": 1426.016842105263,
+    "duration": 5.544
+  },
+  {
+    "text": "I decided that I'm throwing my party at 7:00.",
+    "start": 1431.56125,
+    "duration": 0.774
+  },
+  {
+    "text": "I've asked the genie to organize a party in this room for 700 p.m.",
+    "start": 1432.3354102564103,
+    "duration": 5.74
+  },
+  {
+    "text": "and to formally invite my closest friends by referencing this nucleus graphic.",
+    "start": 1438.0755135135137,
+    "duration": 4.691
+  },
+  {
+    "text": "I'm talking lots of pizza, burgers, chicken strips, and snacks.",
+    "start": 1442.7666666666669,
+    "duration": 2.614
+  },
+  {
+    "text": "Rumor has it there's a guy named Admiral Awesome on the ship.",
+    "start": 1445.3805128205126,
+    "duration": 4.139
+  },
+  {
+    "text": "And if I can get him to come to my party, this is going to be the coolest party of the year.",
     "start": 1447.76,
-    "duration": 8.799
+    "duration": 4.799
   },
   {
-    "text": "cruise ship has begun.",
-    "start": 1453.919,
-    "duration": 7.88
+    "text": "The countdown has begun until the greatest party on the cruise ship has begun.",
+    "start": 1452.5594857142855,
+    "duration": 9.24
   },
   {
-    "text": "Hello. Oh my god. Party.",
+    "text": "Hello.",
     "start": 1456.559,
-    "duration": 5.24
+    "duration": 1.429
   },
   {
-    "text": "The genie pulled off a miracle. This is what you see when you walk in. There are endless food options and of course, Joyide. If you're new here, Joyide is my",
+    "text": "Oh my god.",
+    "start": 1457.988090909091,
+    "duration": 2.382
+  },
+  {
+    "text": "Party.",
+    "start": 1460.3699090909092,
+    "duration": 1.429
+  },
+  {
+    "text": "The genie pulled off a miracle.",
     "start": 1462.96,
-    "duration": 9.599
+    "duration": 2.545
   },
   {
-    "text": "candy. My dream is to change the way the world eats candy, which is why Joyide has no fake colors, way less sugar than other candies, and still tastes so good.",
-    "start": 1470.88,
-    "duration": 8.96
+    "text": "This is what you see when you walk in.",
+    "start": 1465.5052631578947,
+    "duration": 2.07
+  },
+  {
+    "text": "There are endless food options and of course, Joyide.",
+    "start": 1467.5751538461539,
+    "duration": 1.637
+  },
+  {
+    "text": "If you're new here, Joyide is my candy.",
+    "start": 1469.2121282051282,
+    "duration": 2.185
+  },
+  {
+    "text": "My dream is to change the way the world eats candy, which is why Joyide has no fake colors, way less sugar than other candies, and still tastes so good.",
+    "start": 1471.3969230769233,
+    "duration": 8.443
   },
   {
     "text": "My favorite Joy Ride flavor right now is our Cherry Berry Ropes.",
@@ -1195,24 +2535,59 @@
     "duration": 5.92
   },
   {
-    "text": "It's so good. Shout out to the absolute legends doing Joyide runs all over America. Boom, boom, boom. You're amazing. You're incredible. You're so",
+    "text": "It's so good.",
     "start": 1482.48,
-    "duration": 8.88
+    "duration": 1.204
   },
   {
-    "text": "fun. And enjoy snacking. You can find Joyide at Target, 7-Eleven, and a bunch of other stores. Whether you like sour candy or sweet candy, we have it all.",
-    "start": 1489.679,
-    "duration": 8.961
+    "text": "Shout out to the absolute legends doing Joyide runs all over America.",
+    "start": 1483.6842105263158,
+    "duration": 3.265
   },
   {
-    "text": "So, be sure to pick up Joyide on your next snack run. And with that being said, it's time to open the door to the craziest party this cruise has ever",
+    "text": "Boom, boom, boom.",
+    "start": 1486.9494193548387,
+    "duration": 2.018
+  },
+  {
+    "text": "You're amazing.",
+    "start": 1488.9669354838709,
+    "duration": -0.199
+  },
+  {
+    "text": "You're incredible.",
+    "start": 1488.768,
+    "duration": 1.728
+  },
+  {
+    "text": "You're so fun.",
+    "start": 1490.496,
+    "duration": -0.369
+  },
+  {
+    "text": "And enjoy snacking.",
+    "start": 1490.1271142857145,
+    "duration": 2.129
+  },
+  {
+    "text": "You can find Joyide at Target, 7-Eleven, and a bunch of other stores.",
+    "start": 1492.2556571428572,
+    "duration": 2.867
+  },
+  {
+    "text": "Whether you like sour candy or sweet candy, we have it all.",
+    "start": 1495.122162162162,
+    "duration": 3.518
+  },
+  {
+    "text": "So, be sure to pick up Joyide on your next snack run.",
     "start": 1497.12,
-    "duration": 9.76
+    "duration": 3.391
   },
   {
-    "text": "seen.",
-    "start": 1504.72,
-    "duration": 5.76
+    "text": "And with that being said, it's time to open the door to the craziest party this cruise has ever seen.",
+    "start": 1500.510588235294,
+    "duration": 9.969
   },
   {
     "text": "It's time for my party to start.",
@@ -1220,9 +2595,19 @@
     "duration": 5.44
   },
   {
-    "text": "The nucleus that I have formed on this cruise ship is so strong. Unfortunately, Lori can't make it, but that's okay. I mean, the flow rider is it's super fun.",
+    "text": "The nucleus that I have formed on this cruise ship is so strong.",
     "start": 1510.48,
-    "duration": 11.04
+    "duration": 5.173
+  },
+  {
+    "text": "Unfortunately, Lori can't make it, but that's okay.",
+    "start": 1515.6533333333332,
+    "duration": 3.843
+  },
+  {
+    "text": "I mean, the flow rider is it's super fun.",
+    "start": 1519.4962162162162,
+    "duration": 2.024
   },
   {
     "text": "I understand.",
@@ -1240,9 +2625,19 @@
     "duration": 7.52
   },
   {
-    "text": "There's a chaa slide party happening on deck 15. What? Who scheduled that?",
+    "text": "There's a chaa slide party happening on deck 15.",
     "start": 1537.919,
-    "duration": 7.24
+    "duration": 3.371
+  },
+  {
+    "text": "What?",
+    "start": 1541.28975,
+    "duration": 0.806
+  },
+  {
+    "text": "Who scheduled that?",
+    "start": 1542.0958437499999,
+    "duration": 3.063
   },
   {
     "text": "[Music] Right when I was about to cancel the party, I heard the doorbell.",
@@ -1250,9 +2645,19 @@
     "duration": 14.23
   },
   {
-    "text": ">> Hey, come on in. Admiral Awesome. Come on in.",
+    "text": ">> Hey, come on in.",
     "start": 1563.52,
-    "duration": 6.399
+    "duration": 2.105
+  },
+  {
+    "text": "Admiral Awesome.",
+    "start": 1565.6246153846153,
+    "duration": 1.772
+  },
+  {
+    "text": "Come on in.",
+    "start": 1567.396923076923,
+    "duration": 2.522
   },
   {
     "text": ">> Tim and his parents actually showed up.",
@@ -1260,9 +2665,14 @@
     "duration": 3.839
   },
   {
-    "text": "I just knew the nucleus would pull through. We are too strong.",
+    "text": "I just knew the nucleus would pull through.",
     "start": 1569.919,
-    "duration": 5.561
+    "duration": 2.93
+  },
+  {
+    "text": "We are too strong.",
+    "start": 1572.8485384615385,
+    "duration": 2.631
   },
   {
     "text": "[Music] through this.",
@@ -1270,14 +2680,24 @@
     "duration": 15.4
   },
   {
-    "text": "That was awesome. I can't think of a better way to end this cruise ship experience than whatever the heck that was. That",
+    "text": "That was awesome.",
     "start": 1589.76,
-    "duration": 13.399
+    "duration": 3.215
   },
   {
-    "text": "was a hoot. I'm going to go to bed now.",
-    "start": 1597.84,
-    "duration": 5.319
+    "text": "I can't think of a better way to end this cruise ship experience than whatever the heck that was.",
+    "start": 1592.9751351351351,
+    "duration": 9.371
+  },
+  {
+    "text": "That was a hoot.",
+    "start": 1602.3457777777776,
+    "duration": -2.966
+  },
+  {
+    "text": "I'm going to go to bed now.",
+    "start": 1599.3797105263156,
+    "duration": 3.779
   },
   {
     "text": "[Music] [Applause] I woke up the next morning and asked the genie for one more thing.",
@@ -1285,14 +2705,24 @@
     "duration": 15.9
   },
   {
-    "text": "Wrapping paper. On the flight home, I was just reflecting on how I thought the highlight of this cruise would be the buffet or the slide. But if I'm being",
+    "text": "Wrapping paper.",
     "start": 1617.36,
-    "duration": 8.96
+    "duration": 1.433
   },
   {
-    "text": "totally honest, the highlight for me was finishing Haley's book. Three, two, one.",
-    "start": 1624.48,
-    "duration": 8.079
+    "text": "On the flight home, I was just reflecting on how I thought the highlight of this cruise would be the buffet or the slide.",
+    "start": 1618.7929166666665,
+    "duration": 5.678
+  },
+  {
+    "text": "But if I'm being totally honest, the highlight for me was finishing Haley's book.",
+    "start": 1624.4706666666668,
+    "duration": 5.529
+  },
+  {
+    "text": "Three, two, one.",
+    "start": 1629.99941025641,
+    "duration": 2.56
   },
   {
     "text": "Open your eyes.",
@@ -1310,14 +2740,39 @@
     "duration": 3.0
   },
   {
-    "text": ">> How did you get this? You read this. You can tell.",
+    "text": ">> How did you get this?",
     "start": 1638.96,
-    "duration": 10.16
+    "duration": 3.653
   },
   {
-    "text": "You annotated it. You did drawings. Oh my gosh. These are a lot of annotations.",
+    "text": "You read this.",
+    "start": 1642.6126829268294,
+    "duration": 2.131
+  },
+  {
+    "text": "You can tell.",
+    "start": 1644.7434146341466,
+    "duration": 4.377
+  },
+  {
+    "text": "You annotated it.",
     "start": 1645.2,
-    "duration": 10.16
+    "duration": 4.117
+  },
+  {
+    "text": "You did drawings.",
+    "start": 1649.3173055555555,
+    "duration": 4.117
+  },
+  {
+    "text": "Oh my gosh.",
+    "start": 1653.434611111111,
+    "duration": -3.035
+  },
+  {
+    "text": "These are a lot of annotations.",
+    "start": 1650.3999999999999,
+    "duration": 4.96
   },
   {
     "text": ">> Did you read the dedication?",
@@ -1325,9 +2780,19 @@
     "duration": 3.601
   },
   {
-    "text": ">> Yes. And I cried. A >> did you notice the book was missing right here?",
+    "text": ">> Yes.",
     "start": 1655.36,
-    "duration": 5.12
+    "duration": 1.26
+  },
+  {
+    "text": "And I cried.",
+    "start": 1656.62,
+    "duration": 2.16
+  },
+  {
+    "text": "A >> did you notice the book was missing right here?",
+    "start": 1658.78,
+    "duration": 1.7
   },
   {
     "text": ">> No, >> that's a fake book.",
@@ -1335,28 +2800,93 @@
     "duration": 3.28
   },
   {
-    "text": ">> Oh, >> I drew that. Where is Sailor? I don't even like Sailor. She's ugly. Thank you guys for watching the video and thank",
+    "text": ">> Oh, >> I drew that.",
     "start": 1661.919,
-    "duration": 9.281
+    "duration": 2.906
   },
   {
-    "text": "you Haley for helping me start a new section on my bookshelf.",
-    "start": 1668.88,
-    "duration": 6.12
+    "text": "Where is Sailor?",
+    "start": 1664.8252631578946,
+    "duration": 1.819
   },
   {
-    "text": "[Music] You made it to the end of the video. All right. Hope you had fun. Shout out to all the Joyide runners getting Joyide",
+    "text": "I don't even like Sailor.",
+    "start": 1666.6442105263156,
+    "duration": 0.333
+  },
+  {
+    "text": "She's ugly.",
+    "start": 1666.9772972972971,
+    "duration": 1.046
+  },
+  {
+    "text": "Thank you guys for watching the video and thank you Haley for helping me start a new section on my bookshelf.",
+    "start": 1668.0237837837835,
+    "duration": 6.976
+  },
+  {
+    "text": "[Music] You made it to the end of the video.",
     "start": 1676.44,
-    "duration": 10.04
+    "duration": 5.929
   },
   {
-    "text": "all over America. You're amazing. And YouTube thinks this video on screen is going to be your next favorite video ever. So, click it. Click that video.",
-    "start": 1684.559,
-    "duration": 9.201
+    "text": "All right.",
+    "start": 1682.3692307692306,
+    "duration": -0.859
   },
   {
-    "text": "Watch another. Let's continue having fun. The nucleus is growing. It's a real thing, I guess. Have a good day.",
+    "text": "Hope you had fun.",
+    "start": 1681.5106857142857,
+    "duration": 1.787
+  },
+  {
+    "text": "Shout out to all the Joyide runners getting Joyide all over America.",
+    "start": 1683.2976285714285,
+    "duration": 3.01
+  },
+  {
+    "text": "You're amazing.",
+    "start": 1686.3075714285715,
+    "duration": 1.543
+  },
+  {
+    "text": "And YouTube thinks this video on screen is going to be your next favorite video ever.",
+    "start": 1687.8504285714287,
+    "duration": 2.344
+  },
+  {
+    "text": "So, click it.",
+    "start": 1690.1942857142856,
+    "duration": 1.545
+  },
+  {
+    "text": "Click that video.",
+    "start": 1691.7394285714283,
+    "duration": 2.021
+  },
+  {
+    "text": "Watch another.",
     "start": 1692.0,
-    "duration": 6.96
+    "duration": 1.504
+  },
+  {
+    "text": "Let's continue having fun.",
+    "start": 1693.504,
+    "duration": 0.803
+  },
+  {
+    "text": "The nucleus is growing.",
+    "start": 1694.3073684210526,
+    "duration": 3.147
+  },
+  {
+    "text": "It's a real thing, I guess.",
+    "start": 1697.4547368421051,
+    "duration": -0.146
+  },
+  {
+    "text": "Have a good day.",
+    "start": 1697.3083870967741,
+    "duration": 1.652
   }
 ]

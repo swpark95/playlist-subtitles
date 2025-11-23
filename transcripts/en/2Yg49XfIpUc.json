@@ -1,37 +1,102 @@
 [
   {
-    "text": "The other day I was on a treasure hunt when I found this red X on the ground. I started digging and found this chest.",
+    "text": "The other day I was on a treasure hunt when I found this red X on the ground.",
     "start": 0.08,
-    "duration": 6.56
+    "duration": 5.109
   },
   {
-    "text": "When I opened it, I could not believe what I found. An eBay gift card. I went straight home to use it. And when I got on eBay, I could not believe what I saw.",
+    "text": "I started digging and found this chest.",
+    "start": 5.188769230769231,
+    "duration": 1.451
+  },
+  {
+    "text": "When I opened it, I could not believe what I found.",
     "start": 5.279,
-    "duration": 9.921
+    "duration": 2.682
   },
   {
-    "text": "Scammers selling my candy online. $50 bag of fun drink strips. Gummy blusters.",
+    "text": "An eBay gift card.",
+    "start": 7.961081081081081,
+    "duration": 1.829
+  },
+  {
+    "text": "I went straight home to use it.",
+    "start": 9.79027027027027,
+    "duration": 1.413
+  },
+  {
+    "text": "And when I got on eBay, I could not believe what I saw.",
+    "start": 11.203578947368422,
+    "duration": 3.996
+  },
+  {
+    "text": "Scammers selling my candy online.",
     "start": 12.559,
-    "duration": 6.56
+    "duration": 4.4
   },
   {
-    "text": "A rare Joyide watermelon wedge that looks like a flame. This has to be a scam. I bought it immediately. If it is legit, my plan is to put it in this",
+    "text": "$50 bag of fun drink strips.",
+    "start": 16.959,
+    "duration": 0.653
+  },
+  {
+    "text": "Gummy blusters.",
+    "start": 17.61169230769231,
+    "duration": 1.507
+  },
+  {
+    "text": "A rare Joyide watermelon wedge that looks like a flame.",
     "start": 17.359,
-    "duration": 8.961
+    "duration": 3.802
   },
   {
-    "text": "frame. A few days later, it came in the mail. I opened the package [music] and there it was, a watermelon wedge flame.",
-    "start": 24.56,
-    "duration": 7.2
+    "text": "This has to be a scam.",
+    "start": 21.160685714285712,
+    "duration": 0.286
   },
   {
-    "text": "I put it down so I could grab the frame, but when I looked up to grab the wedge, it was gone. I look around the room in",
+    "text": "I bought it immediately.",
+    "start": 21.44648648648649,
+    "duration": 2.335
+  },
+  {
+    "text": "If it is legit, my plan is to put it in this frame.",
+    "start": 23.781621621621625,
+    "duration": 1.296
+  },
+  {
+    "text": "A few days later, it came in the mail.",
+    "start": 25.077894736842104,
+    "duration": 1.75
+  },
+  {
+    "text": "I opened the package [music] and there it was, a watermelon wedge flame.",
+    "start": 26.828108108108108,
+    "duration": 4.932
+  },
+  {
+    "text": "I put it down so I could grab the frame, but when I looked up to grab the wedge, it was gone.",
     "start": 30.08,
-    "duration": 7.999
+    "duration": 4.919
   },
   {
-    "text": "horror. My wife ate it. There goes joy ride history. [music] How would you lay me",
-    "start": 35.68,
-    "duration": 8.32
+    "text": "I look around the room in horror.",
+    "start": 34.9985945945946,
+    "duration": 1.708
+  },
+  {
+    "text": "My wife ate it.",
+    "start": 36.70666666666666,
+    "duration": 2.2
+  },
+  {
+    "text": "There goes joy ride history.",
+    "start": 38.906666666666666,
+    "duration": 3.021
+  },
+  {
+    "text": "[music] How would you lay me",
+    "start": 41.92765,
+    "duration": 2.072
   }
 ]

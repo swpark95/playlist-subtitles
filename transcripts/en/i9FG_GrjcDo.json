@@ -1,32 +1,67 @@
 [
   {
-    "text": "The other day I was in the shower playing Wii bowling when I got a random knock on the door. I went to go check who it was, but there was nobody there.",
+    "text": "The other day I was in the shower playing Wii bowling when I got a random knock on the door.",
     "start": 0.08,
-    "duration": 8.64
+    "duration": 4.999
   },
   {
-    "text": "Just a box that said, \"Don't open.\" So, I shut the door to keep playing when I heard another knock on the door [music] and now it says, \"Okay, fine. You can",
+    "text": "I went to go check who it was, but there was nobody there.",
+    "start": 5.0794999999999995,
+    "duration": 3.64
+  },
+  {
+    "text": "Just a box that said, \"Don't open.\" So, I shut the door to keep playing when I heard another knock on the door [music] and now it says, \"Okay, fine.",
     "start": 6.799,
-    "duration": 8.241
+    "duration": 7.619
   },
   {
-    "text": "open it.\" So, I took the box and opened it up. But I could not believe what was inside. A clarinet with coordinates taped to it. I got in the car and",
-    "start": 13.519,
-    "duration": 7.6
+    "text": "You can open it.\" So, I took the box and opened it up.",
+    "start": 14.417777777777777,
+    "duration": 1.203
   },
   {
-    "text": "started [music] driving to these coordinates. When I got there, there was a paper that said, \"Play these notes.\" I played them and this chest just opened",
-    "start": 20.16,
-    "duration": 9.519
+    "text": "But I could not believe what was inside.",
+    "start": 15.621052631578946,
+    "duration": 1.744
   },
   {
-    "text": "up. I went to grab the candy inside, but when I did, this guy brought out an iPad [music] for me to tip. He's clearly trying to scam me, so I just walked into",
-    "start": 27.84,
-    "duration": 8.399
+    "text": "A clarinet with coordinates taped to it.",
+    "start": 17.364705882352943,
+    "duration": 2.255
   },
   {
-    "text": "the Whole Foods instead. I grabbed two bags of Joyide and checked out. Beware of scammers. You enjoy right at Whole Foods.",
-    "start": 34.64,
-    "duration": 7.12
+    "text": "I got in the car and started [music] driving to these coordinates.",
+    "start": 19.619625,
+    "duration": 3.001
+  },
+  {
+    "text": "When I got there, there was a paper that said, \"Play these notes.\" I played them and this chest just opened up.",
+    "start": 22.620846153846152,
+    "duration": 5.496
+  },
+  {
+    "text": "I went to grab the candy inside, but when I did, this guy brought out an iPad [music] for me to tip.",
+    "start": 28.116923076923076,
+    "duration": 5.394
+  },
+  {
+    "text": "He's clearly trying to scam me, so I just walked into the Whole Foods instead.",
+    "start": 33.51058823529412,
+    "duration": 3.413
+  },
+  {
+    "text": "I grabbed two bags of Joyide and checked out.",
+    "start": 36.92324324324324,
+    "duration": 2.132
+  },
+  {
+    "text": "Beware of scammers.",
+    "start": 39.05497297297297,
+    "duration": 0.305
+  },
+  {
+    "text": "You enjoy right at Whole Foods.",
+    "start": 39.36,
+    "duration": 2.4
   }
 ]

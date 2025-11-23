@@ -2,9 +2,9 @@
 """
 Fetch transcripts for a playlist and emit static JSON files + index.json for CDN hosting (e.g., GitHub Pages).
 
-- EN 원문 + KO 번역을 동시에 생성
-- 문장 단위로 세그먼트 병합
-- /transcripts/en/{videoId}.json, /transcripts/ko/{videoId}.json 구조로 저장
+- Generates EN original + KO translated in one pass
+- Splits into sentence-level segments (handles multiple sentences in one subtitle line)
+- Saves to /transcripts/en/{videoId}.json and /transcripts/ko/{videoId}.json
 """
 from __future__ import annotations
 
@@ -12,13 +12,13 @@ import json
 import os
 import re
 from pathlib import Path
-from typing import Iterable, List, Optional, Dict
+from typing import Dict, Iterable, List, Optional
 
 import requests
 from dotenv import load_dotenv
 from youtube_transcript_api import (
-    TranscriptsDisabled,
     NoTranscriptFound,
+    TranscriptsDisabled,
     VideoUnavailable,
     YouTubeTranscriptApi,
 )
@@ -29,6 +29,10 @@ INDEX_PATH = BASE_DIR / "index.json"
 PLAYLIST_ITEMS_URL = "https://www.googleapis.com/youtube/v3/playlistItems"
 
 ytt_api = YouTubeTranscriptApi()
+
+# Sentence helpers
+_SENTENCE_END_RE = re.compile(r"[.!?？！。…]+$")
+_SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?？！。…])\s+")
 
 
 def load_env() -> dict:
@@ -79,20 +83,13 @@ def fetch_playlist_video_ids(api_key: str, playlist_id: str) -> List[str]:
     return ids
 
 
-# -------- 문장 병합 로직 --------
-
-_SENTENCE_END_RE = re.compile(r"[.!?？！。…]+$")
-
-
-def merge_segments_to_sentences(
-    segments: List[dict],
-    max_chars: int = 120,
-) -> List[dict]:
+def merge_segments_to_sentences(segments: List[dict], max_chars: int = 120) -> List[dict]:
     """
-    youtube-transcript-api에서 나온 세그먼트를 문장 단위로 병합.
+    Convert raw transcript segments into sentence-level segments.
 
-    - 문장부호(., !, ?, …, 한중일 기호 등)를 기준으로 끊고
-    - max_chars를 넘지 않도록 버퍼가 너무 길어지면 강제 플러시
+    - Splits a single subtitle line into sentences when multiple exist.
+    - Distributes duration proportionally by sentence length.
+    - Merges buffered text until sentence-ending punctuation or max_chars threshold.
     """
     merged: List[dict] = []
 
@@ -102,46 +99,62 @@ def merge_segments_to_sentences(
     last_end: Optional[float] = None
 
     for seg in segments:
-        text = (seg.get("text") or "").strip()
-        if not text:
+        raw_text = (seg.get("text") or "").strip()
+        if not raw_text:
             continue
 
         start = float(seg.get("start", 0.0))
         duration = float(seg.get("duration", 0.0))
         end = start + duration
 
-        if not buffer_texts:
-            buffer_start = start
+        sentences = [s.strip() for s in _SENTENCE_SPLIT_RE.split(raw_text) if s.strip()]
+        if not sentences:
+            continue
 
-        buffer_texts.append(text)
-        buffer_text_len += len(text) + 1
-        last_end = end
+        total_len = sum(len(s) for s in sentences) or len(sentences)
+        sentence_starts: List[float] = []
+        sentence_durations: List[float] = []
+        cursor = start
+        for idx, s in enumerate(sentences):
+            if idx == len(sentences) - 1:
+                seg_duration = end - cursor
+            else:
+                ratio = len(s) / total_len
+                seg_duration = duration * ratio
+            sentence_starts.append(cursor)
+            sentence_durations.append(seg_duration)
+            cursor += seg_duration
 
-        # 지금 세그먼트의 끝이 문장부호로 끝나거나, 너무 길어졌으면 한 문장으로 본다.
-        is_sentence_end = bool(_SENTENCE_END_RE.search(text))
-        is_too_long = buffer_text_len >= max_chars
+        for s_text, s_start, s_dur in zip(sentences, sentence_starts, sentence_durations):
+            s_end = s_start + s_dur
+            if not buffer_texts:
+                buffer_start = s_start
 
-        if is_sentence_end or is_too_long:
-            merged_text = " ".join(buffer_texts).strip()
-            if buffer_start is None or last_end is None:
-                # 방어적 코드 (실제로는 거의 안탐)
-                buffer_start = start
-                last_end = end
+            buffer_texts.append(s_text)
+            buffer_text_len += len(s_text) + 1
+            last_end = s_end
 
-            merged.append(
-                {
-                    "text": merged_text,
-                    "start": buffer_start,
-                    "duration": round(last_end - buffer_start, 3),
-                }
-            )
-            # 버퍼 초기화
-            buffer_texts = []
-            buffer_start = None
-            buffer_text_len = 0
-            last_end = None
+            is_sentence_end = bool(_SENTENCE_END_RE.search(s_text))
+            is_too_long = buffer_text_len >= max_chars
 
-    # 마지막에 남은 버퍼 flush
+            if is_sentence_end or is_too_long:
+                merged_text = " ".join(buffer_texts).strip()
+                if buffer_start is None or last_end is None:
+                    buffer_start = s_start
+                    last_end = s_end
+
+                merged.append(
+                    {
+                        "text": merged_text,
+                        "start": buffer_start,
+                        "duration": round(last_end - buffer_start, 3),
+                    }
+                )
+                buffer_texts = []
+                buffer_start = None
+                buffer_text_len = 0
+                last_end = None
+
     if buffer_texts and buffer_start is not None and last_end is not None:
         merged_text = " ".join(buffer_texts).strip()
         merged.append(
@@ -155,24 +168,12 @@ def merge_segments_to_sentences(
     return merged
 
 
-# -------- EN + KO 동시 생성 --------
-
 def fetch_transcripts_en_ko(video_id: str) -> Optional[Dict[str, Optional[List[dict]]]]:
     """
-    영어(en) 자막을 기준으로 가져오고, 같은 트랜스크립트를 ko로 translate 해서 둘 다 반환.
-
-    return 형식:
-    {
-        "en": [ ... sentence segments ... ],
-        "ko": [ ... sentence segments ... ] or None
-    }
+    영어(en) 기준으로 가져오고 ko 번역도 생성.
     """
     try:
-        # 영어 우선으로 가져오기
-        fetched_en = ytt_api.fetch(
-            video_id,
-            languages=["en", "en-US", "en-GB"],
-        )
+        fetched_en = ytt_api.fetch(video_id, languages=["en", "en-US", "en-GB"])
     except (TranscriptsDisabled, NoTranscriptFound, VideoUnavailable):
         print(f"[skip] transcript unavailable (no EN) for {video_id}")
         return None
@@ -180,18 +181,13 @@ def fetch_transcripts_en_ko(video_id: str) -> Optional[Dict[str, Optional[List[d
         print(f"[error] failed to fetch EN transcript for {video_id}: {exc}")
         return None
 
-    # EN: 문장 단위 병합
-    en_raw = fetched_en.to_raw_data()
-    en_sentences = merge_segments_to_sentences(en_raw)
+    en_sentences = merge_segments_to_sentences(fetched_en.to_raw_data())
 
-    # KO: 번역 후 문장 단위 병합
     ko_sentences: Optional[List[dict]] = None
     try:
         fetched_ko = fetched_en.translate("ko")
-        ko_raw = fetched_ko.to_raw_data()
-        ko_sentences = merge_segments_to_sentences(ko_raw)
+        ko_sentences = merge_segments_to_sentences(fetched_ko.to_raw_data())
     except Exception as exc:
-        # 번역이 실패해도 EN만 있어도 되므로 warning 정도만
         print(f"[warn] could not translate {video_id} → ko: {exc}")
 
     return {"en": en_sentences, "ko": ko_sentences}
@@ -204,9 +200,6 @@ def save_index(entries: List[dict]) -> None:
 
 
 def save_transcript(video_id: str, transcript: List[dict], lang: str) -> Path:
-    """
-    /transcripts/{lang}/{videoId}.json 으로 저장
-    """
     lang_dir = TRANSCRIPTS_DIR / lang
     lang_dir.mkdir(parents=True, exist_ok=True)
     path = lang_dir / f"{video_id}.json"
@@ -221,7 +214,6 @@ def main() -> None:
     video_ids = fetch_playlist_video_ids(config["api_key"], config["playlist_id"])
     print(f"[info] playlist items: {len(video_ids)}")
 
-    # index.json은 매번 새로 생성 (구조 바뀌었으므로)
     index_entries: List[dict] = []
 
     for video_id in video_ids:
@@ -240,7 +232,6 @@ def main() -> None:
             urls["ko"] = f"{config['base_url']}/transcripts/ko/{video_id}.json"
 
         if not urls:
-            # 이론상 여기 안 오긴 함 (EN 없으면 위에서 continue 됨)
             continue
 
         entry = {
