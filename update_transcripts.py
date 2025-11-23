@@ -33,6 +33,7 @@ ytt_api = YouTubeTranscriptApi()
 # Sentence helpers
 _SENTENCE_END_RE = re.compile(r"[.!?？！。…]+$")
 _SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?？！。…])\s+")
+_START_LEAD_IN = 1.0  # seconds to pull start times earlier when a sentence begins mid-segment
 
 
 def load_env() -> dict:
@@ -96,6 +97,7 @@ def merge_segments_to_sentences(segments: List[dict], max_chars: int = 240) -> L
 
     buffer_texts: List[str] = []
     buffer_start: Optional[float] = None
+    buffer_segment_start: Optional[float] = None
     buffer_text_len = 0
     last_end: Optional[float] = None
 
@@ -134,6 +136,7 @@ def merge_segments_to_sentences(segments: List[dict], max_chars: int = 240) -> L
             s_end = s_start + s_dur
             if not buffer_texts:
                 buffer_start = s_start
+                buffer_segment_start = start
 
             buffer_texts.append(s_text)
             buffer_text_len += len(s_text) + 1
@@ -148,25 +151,38 @@ def merge_segments_to_sentences(segments: List[dict], max_chars: int = 240) -> L
                     buffer_start = s_start
                     last_end = s_end
 
+                # If a sentence starts mid-segment, pull the timestamp slightly earlier
+                # (but never before the original segment's start) so the opening words
+                # are not clipped when seeking.
+                lead_in = 0.0
+                if buffer_segment_start is not None:
+                    lead_in = min(_START_LEAD_IN, max(0.0, buffer_start - buffer_segment_start))
+                start_with_lead = max(0.0, buffer_start - lead_in)
+
                 merged.append(
                     {
                         "text": merged_text,
-                        "start": buffer_start,
-                        "duration": round(last_end - buffer_start, 3),
+                        "start": start_with_lead,
+                        "duration": round(last_end - start_with_lead, 3),
                     }
                 )
                 buffer_texts = []
                 buffer_start = None
+                buffer_segment_start = None
                 buffer_text_len = 0
                 last_end = None
 
     if buffer_texts and buffer_start is not None and last_end is not None:
         merged_text = " ".join(buffer_texts).strip()
+        lead_in = 0.0
+        if buffer_segment_start is not None:
+            lead_in = min(_START_LEAD_IN, max(0.0, buffer_start - buffer_segment_start))
+        start_with_lead = max(0.0, buffer_start - lead_in)
         merged.append(
             {
                 "text": merged_text,
-                "start": buffer_start,
-                "duration": round(last_end - buffer_start, 3),
+                "start": start_with_lead,
+                "duration": round(last_end - start_with_lead, 3),
             }
         )
 
