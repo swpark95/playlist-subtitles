@@ -83,7 +83,7 @@ def fetch_playlist_video_ids(api_key: str, playlist_id: str) -> List[str]:
     return ids
 
 
-def merge_segments_to_sentences(segments: List[dict], max_chars: int = 120) -> List[dict]:
+def merge_segments_to_sentences(segments: List[dict], max_chars: int = 240) -> List[dict]:
     """
     Convert raw transcript segments into sentence-level segments.
 
