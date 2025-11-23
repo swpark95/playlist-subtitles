@@ -90,6 +90,7 @@ def merge_segments_to_sentences(segments: List[dict], max_chars: int = 120) -> L
     - Splits a single subtitle line into sentences when multiple exist.
     - Distributes duration proportionally by sentence length.
     - Merges buffered text until sentence-ending punctuation or max_chars threshold.
+    - Skips noise like [music]/(music)
     """
     merged: List[dict] = []
 
@@ -101,6 +102,10 @@ def merge_segments_to_sentences(segments: List[dict], max_chars: int = 120) -> L
     for seg in segments:
         raw_text = (seg.get("text") or "").strip()
         if not raw_text:
+            continue
+        # 필터: [music], (music) 등 노이즈 제거
+        lowered = raw_text.lower()
+        if "[music]" in lowered or "(music)" in lowered or lowered == "music":
             continue
 
         start = float(seg.get("start", 0.0))
